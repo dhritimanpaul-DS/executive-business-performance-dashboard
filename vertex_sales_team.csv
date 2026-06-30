@@ -1,0 +1,151 @@
+Salesperson_Key,Salesperson_Name,Designation,Reporting_Manager,Department,Territory,Base_City,Joining_Date,Annual_Sales_Target,Performance_Factor,Commission_Percent,Employee_Status
+EMP-000001,Jagrati Sibal,Senior Sales Executive,Manager 1,Retail Sales,South,Hyderabad,2018-11-15,21000000,0.93,2.5,Active
+EMP-000002,Tristan Mani,Regional Sales Manager,Manager 1,Retail Sales,South,Hyderabad,2022-05-15,7000000,0.94,2.22,Active
+EMP-000003,Falguni Sarma,Senior Sales Executive,Manager 1,Retail Sales,East,Bhubaneswar,2019-01-18,15000000,0.93,5.06,Active
+EMP-000004,Naveen Chakrabarti,Sales Executive,Manager 1,Retail Sales,West,Surat,2022-01-17,8500000,1.08,4.31,Active
+EMP-000005,Rehaan Sodhi,Key Account Manager,Manager 1,Channel Sales,East,Guwahati,2024-10-09,12000000,1.0,3.32,Active
+EMP-000006,Netra Sami,Senior Sales Executive,Manager 1,Retail Sales,West,Pune,2020-02-25,16000000,1.13,3.17,Active
+EMP-000007,Unni Modi,Sales Executive,Manager 1,Channel Sales,South,Bengaluru,2020-03-06,13500000,0.87,2.18,Resigned
+EMP-000008,Amara Rana,Sales Executive,Manager 1,Channel Sales,East,Guwahati,2024-09-28,21000000,0.96,5.41,Active
+EMP-000009,Pallavi Bose,Sales Executive,Manager 1,Retail Sales,North,Delhi,2021-09-20,23000000,0.97,5.76,Active
+EMP-000010,Abeer Shetty,Key Account Manager,Manager 1,Enterprise Sales,North,Chandigarh,2020-03-20,9000000,1.09,5.66,Active
+EMP-000011,Hemani Bains,Sales Executive,Manager 2,Enterprise Sales,West,Pune,2021-06-14,9500000,1.16,3.02,Active
+EMP-000012,Aditya Lala,Sales Executive,Manager 2,Retail Sales,East,Guwahati,2022-12-31,13500000,1.09,2.97,On Leave
+EMP-000013,Bakhshi Sankaran,Sales Executive,Manager 2,Retail Sales,East,Guwahati,2019-12-07,8500000,1.03,5.1,Active
+EMP-000014,Matthew Ravel,Sales Executive,Manager 2,Channel Sales,East,Bhubaneswar,2023-12-18,25000000,0.99,4.26,Active
+EMP-000015,Vaishnavi Ganesan,Key Account Manager,Manager 2,Channel Sales,East,Bhubaneswar,2022-06-21,20000000,1.08,3.99,Active
+EMP-000016,Pratyush Wali,Sales Executive,Manager 2,Enterprise Sales,North,Jaipur,2023-12-14,16500000,1.16,3.3,Active
+EMP-000017,Frado Bhatti,Sales Executive,Manager 2,Enterprise Sales,North,Jaipur,2018-09-28,8500000,0.9,2.05,Active
+EMP-000018,Riya Dani,Senior Sales Executive,Manager 2,Channel Sales,South,Hyderabad,2023-11-22,25000000,1.04,2.07,Active
+EMP-000019,Logan Gola,Senior Sales Executive,Manager 2,Retail Sales,East,Patna,2025-11-17,12500000,1.16,2.42,Active
+EMP-000020,Sanya Dewan,Senior Sales Executive,Manager 2,Channel Sales,South,Bengaluru,2019-02-19,15500000,1.11,3.47,Active
+EMP-000021,Devika Nazareth,Key Account Manager,Manager 3,Enterprise Sales,South,Bengaluru,2021-06-26,19500000,1.19,4.28,Active
+EMP-000022,Inaya Sheth,Key Account Manager,Manager 3,Channel Sales,West,Ahmedabad,2018-12-11,9500000,1.02,5.12,Active
+EMP-000023,Falak Chana,Senior Sales Executive,Manager 3,Channel Sales,East,Kolkata,2020-09-22,24500000,1.13,3.03,Active
+EMP-000024,Zashil Shukla,Sales Executive,Manager 3,Channel Sales,West,Surat,2020-02-14,5000000,0.93,2.48,Active
+EMP-000025,Eiravati Konda,Senior Sales Executive,Manager 3,Channel Sales,South,Chennai,2019-04-02,10500000,1.11,4.14,Active
+EMP-000026,Advik Atwal,Sales Executive,Manager 3,Channel Sales,South,Kochi,2023-07-20,11000000,1.16,5.74,Active
+EMP-000027,Chaitanya Nayar,Senior Sales Executive,Manager 3,Enterprise Sales,South,Bengaluru,2020-05-23,5000000,0.97,5.69,Active
+EMP-000028,Urishilla Hayre,Sales Executive,Manager 3,Channel Sales,West,Pune,2022-11-26,6000000,1.01,4.07,Active
+EMP-000029,Gaurika Badami,Key Account Manager,Manager 3,Enterprise Sales,East,Guwahati,2025-12-23,6500000,0.89,4.58,Resigned
+EMP-000030,Hemani Patla,Sales Executive,Manager 3,Channel Sales,East,Patna,2025-08-20,17000000,1.08,3.21,Active
+EMP-000031,Chatura Kannan,Sales Executive,Manager 4,Enterprise Sales,East,Kolkata,2022-08-13,17000000,1.16,3.61,Active
+EMP-000032,Manbir Dara,Sales Executive,Manager 4,Enterprise Sales,South,Kochi,2019-08-27,11000000,1.16,4.91,Active
+EMP-000033,Kala Bajwa,Sales Executive,Manager 4,Enterprise Sales,North,Jaipur,2022-01-23,13000000,0.86,5.52,Active
+EMP-000034,Janya Varghese,Senior Sales Executive,Manager 4,Channel Sales,East,Guwahati,2023-10-15,13000000,1.15,1.75,Active
+EMP-000035,Joshua Shanker,Sales Executive,Manager 4,Retail Sales,South,Bengaluru,2022-11-07,6000000,1.15,3.23,Active
+EMP-000036,Charita Mitra,Sales Executive,Manager 4,Enterprise Sales,North,Chandigarh,2024-05-12,17500000,1.14,5.63,Active
+EMP-000037,Radhika Jani,Sales Executive,Manager 4,Retail Sales,West,Ahmedabad,2022-02-14,11500000,1.09,2.78,Active
+EMP-000038,Banjeet Korpal,Sales Executive,Manager 4,Enterprise Sales,South,Kochi,2018-11-18,12000000,1.0,5.37,Active
+EMP-000039,Reva Sarna,Key Account Manager,Manager 4,Channel Sales,North,Delhi,2023-10-26,20500000,0.95,4.32,Active
+EMP-000040,Samarth Bandi,Sales Executive,Manager 4,Retail Sales,East,Guwahati,2024-09-01,9000000,1.12,4.84,Active
+EMP-000041,Dalbir Arya,Regional Sales Manager,Manager 5,Retail Sales,West,Mumbai,2021-10-11,6500000,1.16,3.54,Active
+EMP-000042,Anusha Dhar,Senior Sales Executive,Manager 5,Channel Sales,South,Bengaluru,2022-05-20,12000000,1.15,5.34,Active
+EMP-000043,Balendra Lata,Key Account Manager,Manager 5,Enterprise Sales,West,Surat,2023-04-27,6500000,0.98,5.26,Active
+EMP-000044,Gabriel Sengupta,Senior Sales Executive,Manager 5,Channel Sales,East,Bhubaneswar,2021-03-13,22500000,1.1,3.88,Active
+EMP-000045,Manan Singh,Sales Executive,Manager 5,Enterprise Sales,South,Bengaluru,2024-03-11,6500000,1.05,5.22,Active
+EMP-000046,Ikbal Lanka,Regional Sales Manager,Manager 5,Retail Sales,West,Surat,2018-07-15,10500000,0.9,2.21,Active
+EMP-000047,Tarak Wali,Sales Executive,Manager 5,Enterprise Sales,North,Jaipur,2019-04-03,7000000,1.05,2.31,Active
+EMP-000048,Rehaan Dugar,Sales Executive,Manager 5,Channel Sales,East,Kolkata,2019-11-11,12000000,1.18,4.35,Active
+EMP-000049,Saumya Devan,Senior Sales Executive,Manager 5,Channel Sales,West,Pune,2018-10-15,11000000,0.96,4.98,Active
+EMP-000050,Zaitra Vaidya,Sales Executive,Manager 5,Retail Sales,West,Ahmedabad,2025-07-11,14500000,0.95,2.79,Resigned
+EMP-000051,Advik Natarajan,Senior Sales Executive,Manager 6,Enterprise Sales,South,Chennai,2025-09-11,5000000,0.98,3.87,Active
+EMP-000052,Vasana Dave,Regional Sales Manager,Manager 6,Channel Sales,West,Surat,2019-05-13,11500000,0.89,1.86,Active
+EMP-000053,Saumya Chand,Sales Executive,Manager 6,Retail Sales,West,Mumbai,2026-06-07,24500000,0.89,4.18,Active
+EMP-000054,Krish Bhasin,Senior Sales Executive,Manager 6,Channel Sales,East,Kolkata,2019-06-02,11500000,1.13,4.0,Active
+EMP-000055,Gopal Mishra,Regional Sales Manager,Manager 6,Enterprise Sales,North,Jaipur,2020-10-15,17000000,0.98,4.73,Active
+EMP-000056,Lipika Raghavan,Sales Executive,Manager 6,Channel Sales,West,Pune,2019-09-12,16500000,0.91,3.73,Active
+EMP-000057,Bachittar Khatri,Sales Executive,Manager 6,Enterprise Sales,East,Guwahati,2020-12-03,18000000,1.08,3.1,Active
+EMP-000058,Upasna Kohli,Sales Executive,Manager 6,Enterprise Sales,East,Guwahati,2020-02-02,7000000,0.98,4.07,Active
+EMP-000059,Nitesh Tandon,Sales Executive,Manager 6,Channel Sales,West,Surat,2021-12-30,13500000,1.13,2.28,Active
+EMP-000060,Anusha Bala,Sales Executive,Manager 6,Retail Sales,South,Hyderabad,2024-07-13,23500000,0.89,4.7,Active
+EMP-000061,Forum Barad,Senior Sales Executive,Manager 7,Retail Sales,North,Jaipur,2020-04-11,15000000,1.06,3.18,Active
+EMP-000062,Bahadurjit Prashad,Sales Executive,Manager 7,Enterprise Sales,West,Pune,2019-07-07,6500000,0.86,3.17,Active
+EMP-000063,Tara Lalla,Sales Executive,Manager 7,Enterprise Sales,East,Bhubaneswar,2025-04-13,14500000,0.88,3.92,Active
+EMP-000064,Sudiksha Mittal,Senior Sales Executive,Manager 7,Retail Sales,South,Chennai,2019-03-21,21500000,0.85,4.35,Active
+EMP-000065,Kamya Subramaniam,Sales Executive,Manager 7,Channel Sales,East,Kolkata,2025-04-26,17000000,0.99,5.77,Active
+EMP-000066,Leena Bassi,Sales Executive,Manager 7,Enterprise Sales,North,Lucknow,2021-04-25,20000000,1.12,1.83,Active
+EMP-000067,Aarnav Rai,Sales Executive,Manager 7,Channel Sales,South,Kochi,2019-06-28,7500000,1.03,2.22,Active
+EMP-000068,Hemang Grewal,Key Account Manager,Manager 7,Retail Sales,South,Kochi,2021-11-07,19500000,0.88,2.22,Active
+EMP-000069,Anamika Pillay,Key Account Manager,Manager 7,Enterprise Sales,South,Bengaluru,2026-04-01,24500000,1.11,5.35,Active
+EMP-000070,Bhavani Ranganathan,Regional Sales Manager,Manager 7,Retail Sales,South,Hyderabad,2019-08-04,6500000,0.99,4.51,Active
+EMP-000071,Zaitra Sura,Sales Executive,Manager 8,Retail Sales,North,Jaipur,2020-11-11,20000000,0.88,3.26,Active
+EMP-000072,Osha Vora,Key Account Manager,Manager 8,Channel Sales,East,Kolkata,2018-11-10,21000000,0.86,2.17,Active
+EMP-000073,Advaith Suri,Senior Sales Executive,Manager 8,Enterprise Sales,South,Hyderabad,2020-10-09,22500000,1.01,2.05,Active
+EMP-000074,Bhavya Deshpande,Senior Sales Executive,Manager 8,Channel Sales,South,Chennai,2021-05-28,6500000,1.03,5.1,Active
+EMP-000075,Xavier Deshpande,Sales Executive,Manager 8,Enterprise Sales,North,Jaipur,2024-08-23,15500000,0.93,1.87,Active
+EMP-000076,Lipika Chaudhuri,Key Account Manager,Manager 8,Channel Sales,South,Kochi,2023-06-16,19000000,0.89,5.22,Active
+EMP-000077,Gunbir Bhat,Sales Executive,Manager 8,Enterprise Sales,North,Jaipur,2025-07-26,10500000,0.87,5.03,On Leave
+EMP-000078,Anita Pal,Key Account Manager,Manager 8,Enterprise Sales,North,Delhi,2025-02-15,8500000,1.1,1.83,Resigned
+EMP-000079,Faraj Kaur,Senior Sales Executive,Manager 8,Channel Sales,West,Ahmedabad,2025-05-31,25000000,1.13,1.78,Active
+EMP-000080,Omya Ghose,Sales Executive,Manager 8,Retail Sales,North,Chandigarh,2025-10-10,13500000,1.12,2.01,Active
+EMP-000081,Kavya Chauhan,Key Account Manager,Manager 9,Retail Sales,South,Hyderabad,2018-08-03,23000000,1.06,5.77,Active
+EMP-000082,Nathan Wadhwa,Sales Executive,Manager 9,Enterprise Sales,South,Kochi,2019-06-30,13000000,1.08,3.96,Active
+EMP-000083,Yatin Chahal,Sales Executive,Manager 9,Enterprise Sales,North,Jaipur,2020-01-11,15000000,1.04,3.95,Active
+EMP-000084,Raghav Soni,Sales Executive,Manager 9,Channel Sales,East,Patna,2019-06-10,18000000,0.94,3.04,Active
+EMP-000085,Vasatika Tata,Sales Executive,Manager 9,Channel Sales,North,Jaipur,2026-03-31,8000000,0.99,4.18,Active
+EMP-000086,Logan Grewal,Regional Sales Manager,Manager 9,Enterprise Sales,West,Pune,2019-10-03,15500000,0.94,4.95,Active
+EMP-000087,Vasana Bhargava,Sales Executive,Manager 9,Enterprise Sales,East,Bhubaneswar,2019-11-09,8000000,0.94,5.66,Active
+EMP-000088,Zashil Gola,Senior Sales Executive,Manager 9,Retail Sales,East,Bhubaneswar,2023-11-01,22000000,0.99,4.04,On Leave
+EMP-000089,Ekanta Barad,Key Account Manager,Manager 9,Enterprise Sales,North,Delhi,2019-09-21,9000000,1.05,5.9,Active
+EMP-000090,Nathaniel Rout,Sales Executive,Manager 9,Channel Sales,West,Mumbai,2020-06-14,5500000,0.98,4.97,Resigned
+EMP-000091,Ekani Din,Sales Executive,Manager 10,Enterprise Sales,West,Mumbai,2024-08-31,19500000,1.18,3.35,Resigned
+EMP-000092,Inaya Rajagopalan,Senior Sales Executive,Manager 10,Retail Sales,East,Guwahati,2021-01-14,25000000,1.16,4.28,Active
+EMP-000093,Chaitaly Mangal,Regional Sales Manager,Manager 10,Retail Sales,South,Kochi,2022-08-13,8500000,0.94,5.94,Active
+EMP-000094,Nakul Dhingra,Sales Executive,Manager 10,Channel Sales,North,Delhi,2024-03-12,20000000,0.96,5.41,Resigned
+EMP-000095,Krishna Chokshi,Key Account Manager,Manager 10,Enterprise Sales,West,Pune,2022-09-15,9000000,1.1,4.51,Active
+EMP-000096,Zashil Kakar,Regional Sales Manager,Manager 10,Channel Sales,West,Surat,2022-01-18,14500000,1.16,5.3,Active
+EMP-000097,Jeremiah Cheema,Sales Executive,Manager 10,Retail Sales,North,Jaipur,2019-02-16,24500000,1.11,2.52,Active
+EMP-000098,Advay Mitter,Senior Sales Executive,Manager 10,Enterprise Sales,East,Patna,2019-11-21,22000000,1.19,5.26,Active
+EMP-000099,Yachana Ravi,Sales Executive,Manager 10,Retail Sales,West,Pune,2018-12-22,16500000,0.91,3.81,Active
+EMP-000100,Finn Goel,Sales Executive,Manager 10,Enterprise Sales,West,Surat,2020-02-15,8500000,0.85,5.6,Active
+EMP-000101,Aadi Gera,Sales Executive,Manager 11,Retail Sales,East,Bhubaneswar,2025-10-08,12000000,0.87,4.34,Active
+EMP-000102,Janya Thaman,Sales Executive,Manager 11,Enterprise Sales,East,Guwahati,2020-02-03,16500000,0.86,4.08,Active
+EMP-000103,Matthew Kashyap,Senior Sales Executive,Manager 11,Enterprise Sales,North,Chandigarh,2024-12-16,9000000,1.07,1.71,Resigned
+EMP-000104,Advik Tandon,Senior Sales Executive,Manager 11,Enterprise Sales,South,Bengaluru,2022-03-15,22000000,1.19,3.76,Active
+EMP-000105,Dayamai Sastry,Senior Sales Executive,Manager 11,Retail Sales,East,Guwahati,2021-01-18,10500000,0.87,2.5,On Leave
+EMP-000106,Raksha Pant,Senior Sales Executive,Manager 11,Channel Sales,South,Kochi,2024-02-04,16500000,0.96,5.01,Active
+EMP-000107,Ijaya Sura,Sales Executive,Manager 11,Enterprise Sales,East,Patna,2018-10-20,20500000,1.03,3.76,Resigned
+EMP-000108,Jasmit Palan,Sales Executive,Manager 11,Enterprise Sales,West,Pune,2023-01-20,18000000,1.07,3.51,On Leave
+EMP-000109,Dalbir Bumb,Sales Executive,Manager 11,Enterprise Sales,West,Ahmedabad,2024-10-26,12000000,1.19,1.62,Active
+EMP-000110,Krishna Mital,Sales Executive,Manager 11,Channel Sales,East,Bhubaneswar,2020-04-08,20500000,1.06,4.83,Active
+EMP-000111,Owen Yadav,Senior Sales Executive,Manager 12,Enterprise Sales,North,Lucknow,2020-02-08,20000000,1.1,4.89,Active
+EMP-000112,Zaitra Varma,Sales Executive,Manager 12,Retail Sales,South,Chennai,2020-10-06,16500000,1.2,3.76,Active
+EMP-000113,Maanas Parikh,Sales Executive,Manager 12,Channel Sales,North,Delhi,2024-01-08,25000000,1.05,2.08,Active
+EMP-000114,Qadim Sachdeva,Sales Executive,Manager 12,Enterprise Sales,West,Surat,2023-11-03,25000000,0.89,3.67,Active
+EMP-000115,Kashvi Nazareth,Key Account Manager,Manager 12,Retail Sales,East,Guwahati,2024-06-16,21500000,1.19,4.26,Active
+EMP-000116,Yashoda Vasa,Senior Sales Executive,Manager 12,Channel Sales,West,Surat,2024-09-26,8000000,0.88,2.28,On Leave
+EMP-000117,Radha Bhat,Sales Executive,Manager 12,Channel Sales,East,Kolkata,2018-09-04,15000000,0.89,3.24,Active
+EMP-000118,Rohan Keer,Sales Executive,Manager 12,Retail Sales,North,Delhi,2024-07-28,7500000,1.11,4.98,Active
+EMP-000119,Falan More,Sales Executive,Manager 12,Channel Sales,West,Mumbai,2019-02-19,8500000,0.97,2.61,Active
+EMP-000120,Max Pal,Senior Sales Executive,Manager 12,Enterprise Sales,North,Lucknow,2018-08-18,15500000,1.11,2.31,Active
+EMP-000121,Wridesh Bandi,Senior Sales Executive,Manager 13,Channel Sales,North,Delhi,2022-09-18,10500000,1.11,4.42,Active
+EMP-000122,Mohini Butala,Sales Executive,Manager 13,Enterprise Sales,South,Hyderabad,2022-03-01,8000000,1.12,2.54,Active
+EMP-000123,Nandini Raja,Sales Executive,Manager 13,Channel Sales,West,Mumbai,2021-08-01,12500000,0.9,1.9,Active
+EMP-000124,Ojasvi Boase,Senior Sales Executive,Manager 13,Enterprise Sales,West,Mumbai,2023-02-01,13000000,0.93,3.25,Active
+EMP-000125,Damyanti Singh,Sales Executive,Manager 13,Retail Sales,East,Guwahati,2024-08-30,24000000,0.99,4.77,Active
+EMP-000126,Omya Issac,Sales Executive,Manager 13,Enterprise Sales,West,Mumbai,2019-09-20,7500000,1.0,5.35,Active
+EMP-000127,Vrinda Dutta,Senior Sales Executive,Manager 13,Retail Sales,East,Patna,2019-05-14,12000000,0.97,5.2,Active
+EMP-000128,Baghyawati Gulati,Sales Executive,Manager 13,Channel Sales,North,Lucknow,2024-06-23,23500000,0.85,4.5,On Leave
+EMP-000129,Faqid Dyal,Sales Executive,Manager 13,Retail Sales,West,Pune,2025-05-18,5500000,1.16,4.62,Active
+EMP-000130,Nakul Chadha,Sales Executive,Manager 13,Retail Sales,South,Bengaluru,2024-06-30,22000000,0.99,4.02,Active
+EMP-000131,Banjeet Goswami,Sales Executive,Manager 14,Enterprise Sales,North,Chandigarh,2021-04-12,7500000,1.18,1.82,Active
+EMP-000132,Nidra Bali,Key Account Manager,Manager 14,Enterprise Sales,South,Hyderabad,2023-11-04,10500000,0.9,4.74,Active
+EMP-000133,Chaitanya Jayaraman,Sales Executive,Manager 14,Retail Sales,West,Pune,2019-07-11,11500000,1.12,4.6,Active
+EMP-000134,Frado Ramakrishnan,Key Account Manager,Manager 14,Retail Sales,North,Jaipur,2019-09-10,21500000,0.96,4.72,Active
+EMP-000135,Lajita Vora,Sales Executive,Manager 14,Retail Sales,North,Delhi,2023-05-22,22500000,0.97,1.72,Active
+EMP-000136,Guneet Varkey,Senior Sales Executive,Manager 14,Channel Sales,West,Ahmedabad,2018-09-17,21000000,1.18,2.75,Resigned
+EMP-000137,Tripti Dugar,Regional Sales Manager,Manager 14,Enterprise Sales,West,Mumbai,2023-11-22,15500000,0.9,1.54,Active
+EMP-000138,Tamanna Das,Senior Sales Executive,Manager 14,Retail Sales,East,Guwahati,2019-12-10,21500000,1.18,3.44,Active
+EMP-000139,Qadim Iyengar,Senior Sales Executive,Manager 14,Channel Sales,East,Patna,2024-02-09,12500000,1.05,4.49,Active
+EMP-000140,Abeer Dayal,Senior Sales Executive,Manager 14,Retail Sales,West,Mumbai,2020-12-19,12500000,1.16,2.96,Active
+EMP-000141,Wazir Subramanian,Sales Executive,Manager 15,Retail Sales,East,Kolkata,2019-02-23,18500000,0.91,4.03,Active
+EMP-000142,Tanay Kothari,Regional Sales Manager,Manager 15,Enterprise Sales,West,Mumbai,2022-06-10,7500000,1.11,2.19,Active
+EMP-000143,Isaiah Parsa,Senior Sales Executive,Manager 15,Channel Sales,North,Jaipur,2024-08-15,24000000,1.02,5.16,Active
+EMP-000144,Eesha Memon,Sales Executive,Manager 15,Enterprise Sales,North,Lucknow,2019-11-29,21500000,1.02,4.48,On Leave
+EMP-000145,Pranit Mahal,Sales Executive,Manager 15,Enterprise Sales,North,Chandigarh,2023-04-16,16000000,1.11,5.51,Active
+EMP-000146,Balvan Dara,Sales Executive,Manager 15,Channel Sales,West,Mumbai,2024-03-03,19000000,1.1,2.38,Active
+EMP-000147,Logan Randhawa,Regional Sales Manager,Manager 15,Channel Sales,West,Surat,2025-10-06,13500000,1.08,5.24,Active
+EMP-000148,Chatura Bhat,Key Account Manager,Manager 15,Retail Sales,North,Chandigarh,2025-08-22,7500000,0.97,3.33,Resigned
+EMP-000149,Imaran Taneja,Key Account Manager,Manager 15,Channel Sales,South,Chennai,2021-12-23,21500000,1.1,3.29,On Leave
+EMP-000150,Isaiah Suresh,Senior Sales Executive,Manager 15,Channel Sales,East,Guwahati,2021-02-12,22000000,0.85,4.76,Active

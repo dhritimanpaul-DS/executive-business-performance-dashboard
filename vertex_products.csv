@@ -1,0 +1,901 @@
+Product_Key,Product_Name,Category,Sub_Category,Brand,Unit_Price,Unit_Cost,Warranty_Months,Launch_Year,Product_Status
+PRD-000001,Logitech Compact Office Desk,Furniture,Desk,Logitech,1208.17,621.97,28,2023,Active
+PRD-000002,Steelcase Vertical File Cabinet,Furniture,Cabinet,Steelcase,1975.24,897.23,16,2024,Active
+PRD-000003,Sony Herman Miller Aeron,Furniture,Chair,Sony,2493.95,1674.95,13,2023,Active
+PRD-000004,Cisco Meeting Notebook,Office Supplies,Notebook,Cisco,1629.06,1191.45,14,2020,Active
+PRD-000005,Brother MacBook Pro 14,Electronics,Laptop,Brother,1388.97,767.93,33,2023,Active
+PRD-000006,Lenovo LG UltraFine 32,Electronics,Monitor,Lenovo,1955.04,1002.09,36,2025,Active
+PRD-000007,Cisco Cisco Meraki AP,Networking,Access Point,Cisco,1409.11,870.38,16,2023,Active
+PRD-000008,Samsung TP-Link Easy Smart,Networking,Switch,Samsung,2387.18,1433.34,24,2022,Discontinued
+PRD-000009,Brother A4 Copy Paper,Office Supplies,Paper,Brother,1800.87,1346.78,14,2023,Active
+PRD-000010,Steelcase Netgear Insight AP,Networking,Access Point,Steelcase,1437.37,784.22,33,2024,Active
+PRD-000011,Microsoft Mobile Pedestal,Furniture,Cabinet,Microsoft,879.6,553.42,17,2022,Active
+PRD-000012,Samsung MacBook Pro 14,Electronics,Laptop,Samsung,416.51,192.01,19,2024,Discontinued
+PRD-000013,Dell Microsoft Ergonomic Mouse,Accessories,Mouse,Dell,2210.26,1320.13,19,2023,Active
+PRD-000014,Bose Metal Storage Cabinet,Furniture,Cabinet,Bose,2017.1,1376.02,21,2023,Active
+PRD-000015,HP Samsung ViewFinity,Electronics,Monitor,HP,1060.49,531.51,32,2020,Discontinued
+PRD-000016,HP Executive Mesh Chair,Furniture,Chair,HP,645.49,476.15,27,2024,Discontinued
+PRD-000017,Canon HP EliteBook 840,Electronics,Laptop,Canon,2206.0,1390.68,27,2023,Active
+PRD-000018,Ubiquiti Photo Paper,Office Supplies,Paper,Ubiquiti,704.43,479.35,16,2020,Active
+PRD-000019,Microsoft Acer Nitro XV,Electronics,Monitor,Microsoft,1616.77,1140.64,33,2024,Active
+PRD-000020,Canon Dell Wireless Mouse,Accessories,Mouse,Canon,255.2,122.03,16,2020,Active
+PRD-000021,Canon HP EliteBook 840,Electronics,Laptop,Canon,773.98,567.04,19,2023,Active
+PRD-000022,Brother TP-Link Archer,Networking,Router,Brother,2146.59,1095.8,13,2025,Active
+PRD-000023,HP Netgear Insight AP,Networking,Access Point,HP,1981.0,896.1,24,2023,Discontinued
+PRD-000024,Herman Miller TP-Link Archer,Networking,Router,Herman Miller,2410.72,1522.5,24,2025,Active
+PRD-000025,TP-Link L-Shaped Workstation,Furniture,Desk,TP-Link,2011.62,1200.97,31,2024,Active
+PRD-000026,Microsoft Xerox VersaLink,Electronics,Printer,Microsoft,2418.44,1313.33,36,2025,Active
+PRD-000027,Vertex Cisco Business Router,Networking,Router,Vertex,2040.43,1516.15,33,2022,Active
+PRD-000028,Lenovo Logitech MX Master 3S,Accessories,Mouse,Lenovo,1573.84,1089.57,12,2023,Active
+PRD-000029,TP-Link Keychron K8,Accessories,Keyboard,TP-Link,985.72,562.31,33,2021,Active
+PRD-000030,Herman Miller Dell Wireless Mouse,Accessories,Mouse,Herman Miller,1766.36,1227.95,19,2025,Active
+PRD-000031,ASUS HP Business Keyboard,Accessories,Keyboard,ASUS,584.9,423.7,27,2025,Active
+PRD-000032,Vertex L-Shaped Workstation,Furniture,Desk,Vertex,2228.41,1523.91,31,2025,Active
+PRD-000033,Steelcase Ubiquiti UniFi,Networking,Access Point,Steelcase,1213.38,727.55,28,2022,Active
+PRD-000034,Epson HP EliteBook 840,Electronics,Laptop,Epson,793.1,449.98,17,2021,Active
+PRD-000035,Vertex Brother HL-L3270,Electronics,Printer,Vertex,2359.94,1587.55,17,2023,Discontinued
+PRD-000036,Samsung HP Bluetooth Mouse,Accessories,Mouse,Samsung,1611.11,1054.45,12,2022,Active
+PRD-000037,Canon Hardcover Journal,Office Supplies,Notebook,Canon,2251.31,1355.55,20,2021,Active
+PRD-000038,Bose Razer Pro Click,Accessories,Mouse,Bose,1016.17,597.73,17,2025,Active
+PRD-000039,Cisco Poly Voyager,Accessories,Headset,Cisco,487.37,359.79,32,2020,Active
+PRD-000040,TP-Link A4 Copy Paper,Office Supplies,Paper,TP-Link,1458.45,830.51,19,2023,Active
+PRD-000041,Cisco Canon imageCLASS,Electronics,Printer,Cisco,2432.64,1233.57,23,2022,Discontinued
+PRD-000042,Sony Vertex Office Chair,Furniture,Chair,Sony,1332.95,619.49,29,2021,Active
+PRD-000043,Ubiquiti Vertex Office Chair,Furniture,Chair,Ubiquiti,2314.4,1654.95,14,2020,Active
+PRD-000044,Canon LG UltraFine 32,Electronics,Monitor,Canon,167.92,116.63,27,2024,Active
+PRD-000045,Canon Poly Voyager,Accessories,Headset,Canon,688.93,383.0,12,2022,Active
+PRD-000046,Brother HP LaserJet Pro,Electronics,Printer,Brother,1289.15,842.33,23,2021,Active
+PRD-000047,Ubiquiti ThinkPad X1 Carbon,Electronics,Laptop,Ubiquiti,1247.75,816.31,13,2025,Active
+PRD-000048,Netgear HP EliteBook 840,Electronics,Laptop,Netgear,641.08,326.75,28,2021,Active
+PRD-000049,Steelcase HP Bluetooth Mouse,Accessories,Mouse,Steelcase,550.01,254.18,32,2022,Active
+PRD-000050,ASUS ErgoFlex Pro,Furniture,Chair,ASUS,1206.66,855.83,20,2023,Active
+PRD-000051,Netgear ASUS ExpertBook B5,Electronics,Laptop,Netgear,1516.91,733.46,26,2022,Active
+PRD-000052,Brother Recycled Paper,Office Supplies,Paper,Brother,1541.72,974.61,17,2023,Active
+PRD-000053,Sony Vertical File Cabinet,Furniture,Cabinet,Sony,532.94,399.39,26,2024,Active
+PRD-000054,LG Premium Printer Paper,Office Supplies,Paper,LG,1506.44,836.93,23,2025,Active
+PRD-000055,Sony Cisco Business Router,Networking,Router,Sony,2387.46,1615.24,35,2025,Active
+PRD-000056,TP-Link ASUS ExpertBook B5,Electronics,Laptop,TP-Link,938.52,701.44,19,2022,Active
+PRD-000057,ASUS Sony WH-1000XM5,Accessories,Headset,ASUS,1883.42,1215.25,24,2022,Active
+PRD-000058,Herman Miller Compact Office Desk,Furniture,Desk,Herman Miller,120.45,85.23,22,2021,Active
+PRD-000059,Canon TP-Link Easy Smart,Networking,Switch,Canon,1832.47,1370.76,13,2023,Active
+PRD-000060,Logitech Xerox VersaLink,Electronics,Printer,Logitech,1449.56,1086.15,35,2021,Active
+PRD-000061,Dell Cisco Catalyst,Networking,Switch,Dell,938.65,655.09,23,2023,Active
+PRD-000062,Vertex Sony WH-1000XM5,Accessories,Headset,Vertex,1802.14,849.2,23,2022,Active
+PRD-000063,Cisco Meeting Notebook,Office Supplies,Notebook,Cisco,2321.82,1183.29,14,2022,Discontinued
+PRD-000064,Canon Premium Printer Paper,Office Supplies,Paper,Canon,1884.24,1376.54,21,2020,Active
+PRD-000065,Canon Wooden File Cabinet,Furniture,Cabinet,Canon,1253.96,832.52,22,2021,Active
+PRD-000066,Epson Cisco Catalyst,Networking,Switch,Epson,2110.08,1129.14,25,2022,Active
+PRD-000067,TP-Link ASUS ExpertBook B5,Electronics,Laptop,TP-Link,72.47,48.37,27,2024,Active
+PRD-000068,Samsung Netgear Insight AP,Networking,Access Point,Samsung,1092.64,498.67,24,2022,Active
+PRD-000069,TP-Link Sony WH-1000XM5,Accessories,Headset,TP-Link,1473.81,857.37,32,2021,Active
+PRD-000070,Ubiquiti Microsoft Ergonomic Mouse,Accessories,Mouse,Ubiquiti,1877.87,1039.32,20,2021,Active
+PRD-000071,Logitech Hardcover Journal,Office Supplies,Notebook,Logitech,554.18,257.38,12,2021,Active
+PRD-000072,Steelcase TP-Link Archer,Networking,Router,Steelcase,1386.04,693.04,24,2025,Active
+PRD-000073,Epson Dell Latitude 7440,Electronics,Laptop,Epson,1355.98,644.76,30,2021,Active
+PRD-000074,Sony Dell Latitude 7440,Electronics,Laptop,Sony,1450.29,1008.57,12,2024,Active
+PRD-000075,Samsung HP Business Keyboard,Accessories,Keyboard,Samsung,2213.53,1273.49,24,2024,Active
+PRD-000076,HP Netgear Smart Switch,Networking,Switch,HP,2317.04,1098.13,35,2022,Active
+PRD-000077,Logitech Spiral Notebook,Office Supplies,Notebook,Logitech,865.33,561.76,21,2025,Active
+PRD-000078,Ubiquiti HP EliteBook 840,Electronics,Laptop,Ubiquiti,244.29,133.74,16,2021,Active
+PRD-000079,Cisco Pentel EnerGel,Office Supplies,Pen,Cisco,688.79,449.89,35,2021,Active
+PRD-000080,ASUS Jabra Evolve2 65,Accessories,Headset,ASUS,560.54,400.76,27,2025,Active
+PRD-000081,Sony Hardcover Journal,Office Supplies,Notebook,Sony,482.63,349.43,17,2023,Active
+PRD-000082,Brother Dell Latitude 7440,Electronics,Laptop,Brother,2173.81,1197.91,32,2025,Active
+PRD-000083,TP-Link HP Bluetooth Mouse,Accessories,Mouse,TP-Link,2117.86,1073.63,17,2025,Active
+PRD-000084,Microsoft Pilot G2,Office Supplies,Pen,Microsoft,932.39,672.07,33,2025,Active
+PRD-000085,Logitech Dell Latitude 7440,Electronics,Laptop,Logitech,832.55,469.51,12,2021,Active
+PRD-000086,Epson TP-Link Easy Smart,Networking,Switch,Epson,1989.63,1260.94,15,2025,Active
+PRD-000087,Epson MacBook Pro 14,Electronics,Laptop,Epson,1258.29,831.07,17,2024,Active
+PRD-000088,Canon HP Business Keyboard,Accessories,Keyboard,Canon,1307.79,607.5,14,2025,Active
+PRD-000089,ASUS Standing Desk Pro,Furniture,Desk,ASUS,140.33,89.95,30,2020,Active
+PRD-000090,Logitech Meeting Notebook,Office Supplies,Notebook,Logitech,1045.27,593.22,20,2025,Active
+PRD-000091,Herman Miller Presentation Paper,Office Supplies,Paper,Herman Miller,1168.92,844.26,23,2025,Active
+PRD-000092,Samsung Mobile Pedestal,Furniture,Cabinet,Samsung,527.99,263.1,17,2020,Active
+PRD-000093,Brother Dell UltraSharp 27,Electronics,Monitor,Brother,1977.01,1300.86,12,2024,Active
+PRD-000094,Netgear Adjustable Desk,Furniture,Desk,Netgear,595.09,290.67,17,2022,Active
+PRD-000095,Brother Cisco Business Router,Networking,Router,Brother,2322.86,1260.18,35,2022,Active
+PRD-000096,HP HP Business Keyboard,Accessories,Keyboard,HP,625.34,341.66,36,2022,Active
+PRD-000097,Bose Vertex Office Chair,Furniture,Chair,Bose,1163.08,765.12,31,2021,Active
+PRD-000098,ASUS Razer Pro Click,Accessories,Mouse,ASUS,230.15,152.91,17,2023,Discontinued
+PRD-000099,Dell D-Link DIR,Networking,Router,Dell,1811.97,832.32,35,2022,Active
+PRD-000100,Bose HP LaserJet Pro,Electronics,Printer,Bose,243.23,139.19,26,2024,Discontinued
+PRD-000101,Brother Poly Voyager,Accessories,Headset,Brother,1422.97,913.28,16,2021,Active
+PRD-000102,Netgear L-Shaped Workstation,Furniture,Desk,Netgear,668.98,371.78,23,2024,Active
+PRD-000103,Lenovo Cisco Meraki AP,Networking,Access Point,Lenovo,1610.82,1154.23,21,2023,Active
+PRD-000104,ASUS D-Link DIR,Networking,Router,ASUS,713.27,362.67,31,2024,Active
+PRD-000105,Netgear Aruba Instant On,Networking,Access Point,Netgear,1062.18,551.17,17,2022,Active
+PRD-000106,Cisco TP-Link Omada,Networking,Access Point,Cisco,2360.6,1193.66,29,2023,Active
+PRD-000107,Herman Miller Photo Paper,Office Supplies,Paper,Herman Miller,235.77,148.89,21,2025,Discontinued
+PRD-000108,Netgear TP-Link Archer,Networking,Router,Netgear,442.27,200.51,32,2024,Active
+PRD-000109,Sony Archive Cabinet,Furniture,Cabinet,Sony,2491.43,1754.52,34,2023,Active
+PRD-000110,Dell Executive Desk,Furniture,Desk,Dell,1784.1,1321.21,33,2023,Active
+PRD-000111,ASUS Meeting Notebook,Office Supplies,Notebook,ASUS,722.33,483.79,23,2021,Active
+PRD-000112,TP-Link Uni-ball Eye,Office Supplies,Pen,TP-Link,1081.01,504.99,19,2025,Active
+PRD-000113,Steelcase ErgoFlex Pro,Furniture,Chair,Steelcase,444.39,277.46,35,2022,Active
+PRD-000114,HP Cisco Business Router,Networking,Router,HP,2122.97,1261.67,17,2024,Active
+PRD-000115,Bose HP Business Keyboard,Accessories,Keyboard,Bose,1968.35,1465.32,30,2021,Active
+PRD-000116,Brother Sony WH-1000XM5,Accessories,Headset,Brother,1021.3,754.58,33,2022,Active
+PRD-000117,Brother Vertical File Cabinet,Furniture,Cabinet,Brother,266.21,198.09,24,2020,Active
+PRD-000118,ASUS Meeting Notebook,Office Supplies,Notebook,ASUS,697.28,483.61,36,2023,Active
+PRD-000119,Canon Ubiquiti UniFi,Networking,Access Point,Canon,907.41,544.05,26,2022,Active
+PRD-000120,ASUS Microsoft Designer Keyboard,Accessories,Keyboard,ASUS,1908.87,1365.25,32,2020,Active
+PRD-000121,Herman Miller Xerox VersaLink,Electronics,Printer,Herman Miller,618.54,327.26,25,2024,Active
+PRD-000122,LG Archive Cabinet,Furniture,Cabinet,LG,2235.01,1602.79,21,2021,Active
+PRD-000123,Dell Meeting Notebook,Office Supplies,Notebook,Dell,2404.91,1147.29,15,2022,Active
+PRD-000124,Microsoft Sony WH-1000XM5,Accessories,Headset,Microsoft,1979.91,1468.49,28,2022,Active
+PRD-000125,Brother Premium Printer Paper,Office Supplies,Paper,Brother,1375.76,1002.84,24,2021,Active
+PRD-000126,LG Netgear Insight AP,Networking,Access Point,LG,1237.36,892.21,31,2021,Active
+PRD-000127,Epson Sony WH-1000XM5,Accessories,Headset,Epson,1051.88,544.98,12,2022,Active
+PRD-000128,HP Wooden File Cabinet,Furniture,Cabinet,HP,848.1,482.73,30,2025,Active
+PRD-000129,Lenovo Samsung ViewFinity,Electronics,Monitor,Lenovo,2068.82,1499.4,19,2020,Active
+PRD-000130,Samsung Microsoft Designer Keyboard,Accessories,Keyboard,Samsung,172.83,128.72,12,2025,Active
+PRD-000131,HP Canon imageCLASS,Electronics,Printer,HP,2422.44,1491.08,34,2024,Active
+PRD-000132,Ubiquiti Jabra Evolve2 65,Accessories,Headset,Ubiquiti,2133.03,1481.36,35,2025,Active
+PRD-000133,HP Pilot G2,Office Supplies,Pen,HP,347.19,218.47,20,2021,Active
+PRD-000134,Vertex ASUS RT-AX,Networking,Router,Vertex,1316.6,904.63,34,2020,Active
+PRD-000135,LG Brother HL-L3270,Electronics,Printer,LG,1196.44,819.78,32,2022,Active
+PRD-000136,Microsoft Photo Paper,Office Supplies,Paper,Microsoft,558.49,277.61,32,2023,Active
+PRD-000137,Dell Logitech Zone,Accessories,Headset,Dell,1335.22,793.13,14,2022,Discontinued
+PRD-000138,HP ErgoFlex Pro,Furniture,Chair,HP,364.6,263.84,32,2024,Active
+PRD-000139,ASUS ErgoFlex Pro,Furniture,Chair,ASUS,798.29,566.37,21,2021,Active
+PRD-000140,Logitech Poly Voyager,Accessories,Headset,Logitech,912.08,511.84,22,2024,Active
+PRD-000141,Steelcase Netgear Nighthawk,Networking,Router,Steelcase,1331.02,852.9,19,2024,Active
+PRD-000142,Canon TP-Link Easy Smart,Networking,Switch,Canon,1386.57,933.01,26,2020,Active
+PRD-000143,Bose Compact Office Desk,Furniture,Desk,Bose,2119.94,1052.25,33,2024,Active
+PRD-000144,TP-Link Vertex Office Chair,Furniture,Chair,TP-Link,1368.91,756.24,28,2020,Discontinued
+PRD-000145,Sony HP Business Keyboard,Accessories,Keyboard,Sony,2342.18,1253.81,21,2020,Active
+PRD-000146,Lenovo Logitech Zone,Accessories,Headset,Lenovo,835.1,491.53,17,2025,Active
+PRD-000147,Steelcase Microsoft Designer Keyboard,Accessories,Keyboard,Steelcase,2034.89,1228.3,35,2024,Active
+PRD-000148,Lenovo D-Link Managed Switch,Networking,Switch,Lenovo,954.11,451.2,36,2021,Active
+PRD-000149,ASUS D-Link Managed Switch,Networking,Switch,ASUS,973.57,530.23,30,2021,Active
+PRD-000150,HP D-Link DIR,Networking,Router,HP,1979.79,1112.9,22,2025,Active
+PRD-000151,Brother Cisco Meraki AP,Networking,Access Point,Brother,1649.27,742.24,36,2022,Active
+PRD-000152,Dell Metal Storage Cabinet,Furniture,Cabinet,Dell,533.26,351.16,31,2023,Active
+PRD-000153,Epson Microsoft Ergonomic Mouse,Accessories,Mouse,Epson,211.62,96.29,33,2020,Active
+PRD-000154,HP Keychron K8,Accessories,Keyboard,HP,350.83,230.06,36,2024,Active
+PRD-000155,Samsung ASUS ExpertBook B5,Electronics,Laptop,Samsung,339.48,172.83,36,2024,Discontinued
+PRD-000156,Brother Netgear Nighthawk,Networking,Router,Brother,1039.77,692.54,20,2020,Active
+PRD-000157,Sony Aruba Instant On,Networking,Access Point,Sony,776.98,499.38,13,2023,Active
+PRD-000158,Bose Compact Office Desk,Furniture,Desk,Bose,2119.76,1138.49,23,2025,Active
+PRD-000159,Lenovo Bose QC Ultra,Accessories,Headset,Lenovo,1508.26,695.3,36,2021,Active
+PRD-000160,Dell HP Bluetooth Mouse,Accessories,Mouse,Dell,2121.01,1051.68,12,2024,Discontinued
+PRD-000161,Cisco L-Shaped Workstation,Furniture,Desk,Cisco,1121.24,539.16,16,2022,Active
+PRD-000162,Vertex Executive Mesh Chair,Furniture,Chair,Vertex,2011.54,1212.36,30,2022,Active
+PRD-000163,Samsung Herman Miller Aeron,Furniture,Chair,Samsung,205.69,97.51,14,2022,Active
+PRD-000164,Vertex Executive Desk,Furniture,Desk,Vertex,1261.27,920.23,14,2021,Active
+PRD-000165,Canon Presentation Paper,Office Supplies,Paper,Canon,1086.92,624.53,29,2025,Discontinued
+PRD-000166,Vertex Presentation Paper,Office Supplies,Paper,Vertex,973.68,566.08,19,2021,Discontinued
+PRD-000167,Samsung BenQ PD2705,Electronics,Monitor,Samsung,1809.27,881.62,21,2024,Discontinued
+PRD-000168,Epson Netgear Nighthawk,Networking,Router,Epson,499.83,321.4,12,2020,Active
+PRD-000169,Bose Cisco Catalyst,Networking,Switch,Bose,1898.75,1168.34,31,2022,Active
+PRD-000170,Logitech TP-Link Archer,Networking,Router,Logitech,1971.41,1246.27,35,2023,Active
+PRD-000171,Canon Aruba Instant On,Networking,Access Point,Canon,1103.32,825.21,26,2021,Active
+PRD-000172,Herman Miller Executive Desk,Furniture,Desk,Herman Miller,526.34,379.55,21,2021,Active
+PRD-000173,Ubiquiti Spiral Notebook,Office Supplies,Notebook,Ubiquiti,985.08,593.04,15,2020,Active
+PRD-000174,Lenovo Adjustable Desk,Furniture,Desk,Lenovo,1127.57,628.86,28,2022,Active
+PRD-000175,Brother Aruba Instant On,Networking,Access Point,Brother,317.64,146.7,12,2020,Active
+PRD-000176,Brother Cisco Business Router,Networking,Router,Brother,737.93,391.78,35,2022,Active
+PRD-000177,Netgear Wooden File Cabinet,Furniture,Cabinet,Netgear,706.61,459.38,23,2025,Active
+PRD-000178,Bose Epson EcoTank,Electronics,Printer,Bose,941.33,593.35,22,2022,Active
+PRD-000179,Bose Photo Paper,Office Supplies,Paper,Bose,1179.05,631.2,19,2021,Active
+PRD-000180,Lenovo Dell Latitude 7440,Electronics,Laptop,Lenovo,102.24,67.98,21,2023,Active
+PRD-000181,Sony Microsoft Designer Keyboard,Accessories,Keyboard,Sony,1678.6,1168.87,31,2021,Discontinued
+PRD-000182,Netgear Canon imageCLASS,Electronics,Printer,Netgear,2338.22,1643.17,23,2024,Active
+PRD-000183,HP Herman Miller Aeron,Furniture,Chair,HP,1787.53,1030.32,12,2025,Active
+PRD-000184,Sony Adjustable Desk,Furniture,Desk,Sony,1999.06,1374.42,26,2021,Active
+PRD-000185,Dell Logitech Zone,Accessories,Headset,Dell,1366.03,1018.42,27,2020,Active
+PRD-000186,Vertex Logitech MX Master 3S,Accessories,Mouse,Vertex,1251.76,924.92,17,2020,Active
+PRD-000187,Canon ASUS ExpertBook B5,Electronics,Laptop,Canon,2288.53,1534.41,35,2022,Active
+PRD-000188,Steelcase Netgear Smart Switch,Networking,Switch,Steelcase,2301.46,1039.86,34,2023,Active
+PRD-000189,Netgear Ubiquiti Switch,Networking,Switch,Netgear,555.76,392.89,30,2024,Discontinued
+PRD-000190,Herman Miller Hardcover Journal,Office Supplies,Notebook,Herman Miller,1516.99,838.82,13,2024,Active
+PRD-000191,Microsoft Vertex Office Chair,Furniture,Chair,Microsoft,1352.68,944.37,21,2022,Active
+PRD-000192,Lenovo Cisco Meraki AP,Networking,Access Point,Lenovo,2295.97,1668.07,27,2021,Active
+PRD-000193,Ubiquiti Keychron K8,Accessories,Keyboard,Ubiquiti,70.45,33.52,24,2023,Active
+PRD-000194,Samsung Executive Mesh Chair,Furniture,Chair,Samsung,1522.84,1062.19,13,2023,Active
+PRD-000195,Logitech Acer Nitro XV,Electronics,Monitor,Logitech,243.24,181.16,23,2023,Active
+PRD-000196,HP Premium Printer Paper,Office Supplies,Paper,HP,2072.99,966.34,23,2021,Active
+PRD-000197,Herman Miller HP EliteBook 840,Electronics,Laptop,Herman Miller,1752.4,1240.14,34,2020,Active
+PRD-000198,Logitech Metal Storage Cabinet,Furniture,Cabinet,Logitech,1030.38,752.57,27,2020,Active
+PRD-000199,HP Epson EcoTank,Electronics,Printer,HP,360.41,268.88,13,2022,Active
+PRD-000200,ASUS Logitech MX Master 3S,Accessories,Mouse,ASUS,2452.39,1218.92,33,2023,Active
+PRD-000201,Netgear Netgear Nighthawk,Networking,Router,Netgear,2021.91,1139.71,13,2022,Active
+PRD-000202,HP HP LaserJet Pro,Electronics,Printer,HP,2406.45,1293.8,17,2024,Discontinued
+PRD-000203,Dell Logitech Zone,Accessories,Headset,Dell,1123.59,750.48,36,2023,Active
+PRD-000204,Microsoft Meeting Notebook,Office Supplies,Notebook,Microsoft,2265.08,1449.78,26,2021,Active
+PRD-000205,HP Cisco Catalyst,Networking,Switch,HP,2059.22,1064.1,23,2020,Active
+PRD-000206,Netgear Metal Storage Cabinet,Furniture,Cabinet,Netgear,2155.86,1425.18,36,2023,Discontinued
+PRD-000207,Samsung Dell Latitude 7440,Electronics,Laptop,Samsung,2413.68,1210.34,22,2021,Discontinued
+PRD-000208,Brother HP LaserJet Pro,Electronics,Printer,Brother,1599.26,1110.35,16,2020,Active
+PRD-000209,Samsung HP LaserJet Pro,Electronics,Printer,Samsung,1500.34,829.56,25,2025,Active
+PRD-000210,Dell Poly Voyager,Accessories,Headset,Dell,506.65,314.87,18,2025,Active
+PRD-000211,Microsoft Dell Latitude 7440,Electronics,Laptop,Microsoft,1046.68,718.5,23,2023,Discontinued
+PRD-000212,Herman Miller Compact Office Desk,Furniture,Desk,Herman Miller,966.84,473.42,16,2023,Active
+PRD-000213,Samsung Executive Notebook,Office Supplies,Notebook,Samsung,908.3,662.57,26,2024,Active
+PRD-000214,Netgear Premium Printer Paper,Office Supplies,Paper,Netgear,1805.77,1136.05,14,2020,Active
+PRD-000215,Epson Dell KB216,Accessories,Keyboard,Epson,592.86,399.02,30,2025,Active
+PRD-000216,Bose Dell Latitude 7440,Electronics,Laptop,Bose,421.43,270.27,19,2023,Active
+PRD-000217,Steelcase Parker Jotter,Office Supplies,Pen,Steelcase,1395.17,670.36,25,2022,Active
+PRD-000218,Vertex Luxor Gel Pen,Office Supplies,Pen,Vertex,518.11,346.98,16,2025,Active
+PRD-000219,Cisco Cisco Catalyst,Networking,Switch,Cisco,1448.99,1062.1,17,2024,Discontinued
+PRD-000220,Lenovo Sony WH-1000XM5,Accessories,Headset,Lenovo,1588.26,1125.36,29,2024,Active
+PRD-000221,ASUS Spiral Notebook,Office Supplies,Notebook,ASUS,1162.82,820.14,28,2024,Active
+PRD-000222,TP-Link Presentation Paper,Office Supplies,Paper,TP-Link,2161.83,1346.14,19,2024,Active
+PRD-000223,Dell TP-Link Easy Smart,Networking,Switch,Dell,1194.95,559.38,14,2021,Discontinued
+PRD-000224,Dell Bose QC Ultra,Accessories,Headset,Dell,1098.36,607.28,22,2022,Active
+PRD-000225,Canon TP-Link Omada,Networking,Access Point,Canon,460.68,219.14,28,2023,Active
+PRD-000226,Ubiquiti Sony WH-1000XM5,Accessories,Headset,Ubiquiti,1261.4,585.09,19,2021,Active
+PRD-000227,Samsung Photo Paper,Office Supplies,Paper,Samsung,1254.9,673.22,24,2021,Active
+PRD-000228,Lenovo Netgear Nighthawk,Networking,Router,Lenovo,1353.89,866.73,34,2024,Active
+PRD-000229,Ubiquiti ErgoFlex Pro,Furniture,Chair,Ubiquiti,2048.86,1113.62,26,2020,Active
+PRD-000230,Microsoft Parker Jotter,Office Supplies,Pen,Microsoft,2403.43,1304.87,20,2023,Active
+PRD-000231,Logitech Adjustable Desk,Furniture,Desk,Logitech,1901.41,922.0,16,2021,Active
+PRD-000232,Dell Executive Desk,Furniture,Desk,Dell,179.68,118.91,32,2022,Active
+PRD-000233,Epson Acer Nitro XV,Electronics,Monitor,Epson,1327.39,684.82,14,2024,Active
+PRD-000234,Logitech Netgear Smart Switch,Networking,Switch,Logitech,1589.8,911.15,34,2021,Active
+PRD-000235,Steelcase ASUS RT-AX,Networking,Router,Steelcase,1365.51,918.69,17,2024,Active
+PRD-000236,Samsung Executive Notebook,Office Supplies,Notebook,Samsung,228.31,142.35,35,2025,Active
+PRD-000237,Logitech Logitech MX Keys,Accessories,Keyboard,Logitech,994.2,543.24,22,2020,Active
+PRD-000238,Vertex ASUS RT-AX,Networking,Router,Vertex,1045.91,510.03,19,2023,Active
+PRD-000239,Canon Pilot G2,Office Supplies,Pen,Canon,1190.22,674.95,32,2020,Active
+PRD-000240,TP-Link LG UltraFine 32,Electronics,Monitor,TP-Link,2141.36,1372.58,20,2020,Active
+PRD-000241,Lenovo Netgear Insight AP,Networking,Access Point,Lenovo,1628.1,774.83,36,2022,Active
+PRD-000242,Dell TP-Link Easy Smart,Networking,Switch,Dell,2223.71,1070.0,14,2022,Active
+PRD-000243,Epson Dell KB216,Accessories,Keyboard,Epson,1268.13,882.33,13,2024,Discontinued
+PRD-000244,Steelcase Netgear Insight AP,Networking,Access Point,Steelcase,586.16,413.01,13,2022,Active
+PRD-000245,Steelcase L-Shaped Workstation,Furniture,Desk,Steelcase,1665.59,887.35,15,2022,Discontinued
+PRD-000246,Herman Miller TP-Link Easy Smart,Networking,Switch,Herman Miller,1745.05,1220.19,33,2024,Active
+PRD-000247,Bose Logitech MX Keys,Accessories,Keyboard,Bose,1830.0,1315.7,27,2022,Active
+PRD-000248,LG Jabra Evolve2 65,Accessories,Headset,LG,1039.21,568.14,26,2025,Discontinued
+PRD-000249,Canon TP-Link Easy Smart,Networking,Switch,Canon,1931.62,1353.22,33,2024,Active
+PRD-000250,ASUS Executive Mesh Chair,Furniture,Chair,ASUS,1624.15,787.03,36,2025,Active
+PRD-000251,Lenovo Executive Desk,Furniture,Desk,Lenovo,855.16,448.18,31,2022,Active
+PRD-000252,Bose Acer Nitro XV,Electronics,Monitor,Bose,1528.2,1133.19,30,2023,Active
+PRD-000253,Herman Miller Canon imageCLASS,Electronics,Printer,Herman Miller,1200.61,573.48,13,2025,Active
+PRD-000254,Bose Jabra Evolve2 65,Accessories,Headset,Bose,1412.42,902.91,14,2024,Active
+PRD-000255,Lenovo Mobile Pedestal,Furniture,Cabinet,Lenovo,223.74,142.96,26,2020,Active
+PRD-000256,Brother Netgear Nighthawk,Networking,Router,Brother,270.05,123.66,20,2025,Active
+PRD-000257,Steelcase Standing Desk Pro,Furniture,Desk,Steelcase,208.99,101.51,29,2020,Active
+PRD-000258,Sony ASUS ExpertBook B5,Electronics,Laptop,Sony,728.37,482.85,36,2021,Active
+PRD-000259,Netgear Photo Paper,Office Supplies,Paper,Netgear,1490.84,861.69,24,2021,Active
+PRD-000260,Dell Ubiquiti Switch,Networking,Switch,Dell,444.69,321.64,20,2024,Active
+PRD-000261,ASUS Netgear Smart Switch,Networking,Switch,ASUS,1861.8,1307.91,14,2024,Discontinued
+PRD-000262,Canon TP-Link Omada,Networking,Access Point,Canon,975.01,596.18,15,2025,Active
+PRD-000263,Logitech TP-Link Omada,Networking,Access Point,Logitech,1509.09,773.25,27,2025,Active
+PRD-000264,HP Canon imageCLASS,Electronics,Printer,HP,2349.1,1589.97,26,2025,Active
+PRD-000265,LG D-Link DIR,Networking,Router,LG,342.81,242.27,29,2020,Active
+PRD-000266,ASUS A4 Copy Paper,Office Supplies,Paper,ASUS,593.97,329.32,19,2021,Active
+PRD-000267,Cisco Razer Pro Click,Accessories,Mouse,Cisco,1916.63,1072.73,24,2020,Discontinued
+PRD-000268,Steelcase Dell KB216,Accessories,Keyboard,Steelcase,395.55,183.39,21,2025,Active
+PRD-000269,Brother Executive Desk,Furniture,Desk,Brother,986.84,634.32,24,2021,Active
+PRD-000270,Netgear Bose QC Ultra,Accessories,Headset,Netgear,1851.24,1230.08,33,2020,Active
+PRD-000271,HP Cisco Catalyst,Networking,Switch,HP,1167.21,858.43,27,2024,Discontinued
+PRD-000272,LG Spiral Notebook,Office Supplies,Notebook,LG,1403.76,903.22,14,2023,Active
+PRD-000273,Herman Miller Microsoft Designer Keyboard,Accessories,Keyboard,Herman Miller,65.15,35.38,29,2022,Active
+PRD-000274,HP Presentation Paper,Office Supplies,Paper,HP,701.86,408.89,14,2021,Active
+PRD-000275,ASUS Meeting Notebook,Office Supplies,Notebook,ASUS,2267.21,1247.45,15,2022,Discontinued
+PRD-000276,Canon Cisco Catalyst,Networking,Switch,Canon,373.94,254.77,27,2022,Active
+PRD-000277,Vertex Pilot G2,Office Supplies,Pen,Vertex,1188.96,593.84,33,2025,Active
+PRD-000278,Microsoft ASUS RT-AX,Networking,Router,Microsoft,2282.18,1552.64,36,2024,Active
+PRD-000279,ASUS TP-Link Easy Smart,Networking,Switch,ASUS,239.7,165.58,32,2020,Active
+PRD-000280,Samsung Cisco Meraki AP,Networking,Access Point,Samsung,549.1,302.84,31,2023,Active
+PRD-000281,Logitech Cisco Meraki AP,Networking,Access Point,Logitech,1675.88,1002.04,22,2021,Active
+PRD-000282,Lenovo Dell UltraSharp 27,Electronics,Monitor,Lenovo,807.46,448.77,29,2020,Discontinued
+PRD-000283,TP-Link Cisco Business Router,Networking,Router,TP-Link,941.59,551.37,34,2020,Discontinued
+PRD-000284,Epson Premium Printer Paper,Office Supplies,Paper,Epson,1379.61,667.71,34,2025,Active
+PRD-000285,Dell Premium Printer Paper,Office Supplies,Paper,Dell,2196.61,1081.18,19,2025,Active
+PRD-000286,Lenovo Steelcase Series 1,Furniture,Chair,Lenovo,2243.69,1457.66,26,2023,Active
+PRD-000287,Samsung ErgoFlex Pro,Furniture,Chair,Samsung,219.38,157.85,20,2023,Active
+PRD-000288,Samsung Executive Notebook,Office Supplies,Notebook,Samsung,870.48,492.0,32,2020,Active
+PRD-000289,Dell HP EliteBook 840,Electronics,Laptop,Dell,1184.11,874.52,30,2020,Active
+PRD-000290,Sony Epson EcoTank,Electronics,Printer,Sony,1076.16,742.29,27,2021,Active
+PRD-000291,Cisco Epson EcoTank,Electronics,Printer,Cisco,945.01,549.86,35,2021,Discontinued
+PRD-000292,Sony Cisco Meraki AP,Networking,Access Point,Sony,1010.15,637.79,26,2021,Active
+PRD-000293,Sony TP-Link Easy Smart,Networking,Switch,Sony,27.52,17.07,29,2022,Discontinued
+PRD-000294,TP-Link D-Link Managed Switch,Networking,Switch,TP-Link,1897.29,1065.78,14,2025,Discontinued
+PRD-000295,Brother MacBook Pro 14,Electronics,Laptop,Brother,841.83,606.54,33,2022,Active
+PRD-000296,Sony Dell KB216,Accessories,Keyboard,Sony,966.33,719.21,24,2024,Active
+PRD-000297,Microsoft Acer Nitro XV,Electronics,Monitor,Microsoft,1500.81,1038.11,14,2021,Active
+PRD-000298,Netgear Sony WH-1000XM5,Accessories,Headset,Netgear,1335.71,655.66,34,2024,Active
+PRD-000299,Ubiquiti Spiral Notebook,Office Supplies,Notebook,Ubiquiti,2393.48,1454.63,29,2025,Active
+PRD-000300,Dell Canon imageCLASS,Electronics,Printer,Dell,45.64,33.76,36,2023,Active
+PRD-000301,Vertex Acer Nitro XV,Electronics,Monitor,Vertex,98.71,46.73,26,2024,Active
+PRD-000302,Dell Razer Pro Click,Accessories,Mouse,Dell,456.02,281.56,19,2022,Active
+PRD-000303,Samsung ASUS ExpertBook B5,Electronics,Laptop,Samsung,409.98,263.52,35,2025,Active
+PRD-000304,Microsoft Cisco Catalyst,Networking,Switch,Microsoft,1396.82,778.17,30,2025,Discontinued
+PRD-000305,Ubiquiti Logitech Zone,Accessories,Headset,Ubiquiti,147.15,100.29,22,2025,Active
+PRD-000306,Epson HP Bluetooth Mouse,Accessories,Mouse,Epson,845.98,448.75,17,2021,Active
+PRD-000307,ASUS Canon imageCLASS,Electronics,Printer,ASUS,348.94,227.45,35,2024,Discontinued
+PRD-000308,Sony MacBook Pro 14,Electronics,Laptop,Sony,71.87,46.02,28,2021,Active
+PRD-000309,LG Ubiquiti UniFi,Networking,Access Point,LG,189.28,134.86,36,2020,Active
+PRD-000310,Sony D-Link Managed Switch,Networking,Switch,Sony,983.52,723.77,27,2023,Active
+PRD-000311,TP-Link Dell KB216,Accessories,Keyboard,TP-Link,1376.08,974.42,33,2025,Discontinued
+PRD-000312,TP-Link Razer Pro Click,Accessories,Mouse,TP-Link,102.73,58.15,32,2023,Active
+PRD-000313,Logitech Pentel EnerGel,Office Supplies,Pen,Logitech,162.29,117.48,30,2020,Active
+PRD-000314,Herman Miller Spiral Notebook,Office Supplies,Notebook,Herman Miller,2167.98,1359.07,27,2024,Active
+PRD-000315,Epson A4 Copy Paper,Office Supplies,Paper,Epson,1980.94,1225.89,16,2021,Active
+PRD-000316,Ubiquiti MacBook Pro 14,Electronics,Laptop,Ubiquiti,2005.02,915.1,32,2023,Active
+PRD-000317,Cisco Wooden File Cabinet,Furniture,Cabinet,Cisco,2072.84,983.06,24,2022,Active
+PRD-000318,Microsoft ErgoFlex Pro,Furniture,Chair,Microsoft,1783.02,1257.87,33,2022,Active
+PRD-000319,LG Cisco Business Router,Networking,Router,LG,1933.73,1158.35,26,2021,Active
+PRD-000320,LG HP Bluetooth Mouse,Accessories,Mouse,LG,1964.26,894.2,35,2025,Active
+PRD-000321,Steelcase Netgear Insight AP,Networking,Access Point,Steelcase,465.32,247.94,29,2023,Discontinued
+PRD-000322,Steelcase Poly Voyager,Accessories,Headset,Steelcase,1098.54,598.79,22,2023,Active
+PRD-000323,Lenovo Photo Paper,Office Supplies,Paper,Lenovo,374.3,194.62,19,2024,Discontinued
+PRD-000324,Bose Premium Printer Paper,Office Supplies,Paper,Bose,1283.28,833.28,12,2023,Active
+PRD-000325,Sony Keychron K8,Accessories,Keyboard,Sony,1958.9,1458.44,31,2024,Active
+PRD-000326,Epson Ubiquiti Switch,Networking,Switch,Epson,270.78,123.36,36,2022,Active
+PRD-000327,Samsung Pentel EnerGel,Office Supplies,Pen,Samsung,922.83,575.27,13,2020,Active
+PRD-000328,Epson Xerox VersaLink,Electronics,Printer,Epson,170.01,109.49,28,2024,Active
+PRD-000329,Steelcase Pilot G2,Office Supplies,Pen,Steelcase,1043.45,584.0,24,2020,Active
+PRD-000330,Microsoft Meeting Notebook,Office Supplies,Notebook,Microsoft,203.0,126.85,36,2023,Active
+PRD-000331,Dell D-Link DIR,Networking,Router,Dell,1255.61,850.83,26,2023,Active
+PRD-000332,Canon Executive Desk,Furniture,Desk,Canon,2152.4,1007.78,18,2021,Active
+PRD-000333,Dell HP Bluetooth Mouse,Accessories,Mouse,Dell,623.68,368.12,35,2024,Active
+PRD-000334,Dell ASUS RT-AX,Networking,Router,Dell,2405.98,1521.14,25,2025,Active
+PRD-000335,Herman Miller Pentel EnerGel,Office Supplies,Pen,Herman Miller,2106.44,1048.61,33,2023,Active
+PRD-000336,Sony Sony WH-1000XM5,Accessories,Headset,Sony,1072.67,637.32,26,2022,Active
+PRD-000337,Logitech Luxor Gel Pen,Office Supplies,Pen,Logitech,330.1,237.75,12,2020,Active
+PRD-000338,Brother Samsung ViewFinity,Electronics,Monitor,Brother,1696.41,1087.17,25,2021,Discontinued
+PRD-000339,Netgear Photo Paper,Office Supplies,Paper,Netgear,1203.49,851.98,35,2022,Active
+PRD-000340,Ubiquiti Cisco Meraki AP,Networking,Access Point,Ubiquiti,1819.72,1071.65,32,2023,Active
+PRD-000341,Netgear D-Link Managed Switch,Networking,Switch,Netgear,1481.78,698.1,17,2023,Active
+PRD-000342,Epson ThinkPad X1 Carbon,Electronics,Laptop,Epson,2110.64,1383.21,31,2020,Discontinued
+PRD-000343,Lenovo Netgear Smart Switch,Networking,Switch,Lenovo,470.85,215.86,14,2025,Active
+PRD-000344,ASUS Logitech Zone,Accessories,Headset,ASUS,339.97,248.39,21,2022,Active
+PRD-000345,ASUS Cisco Meraki AP,Networking,Access Point,ASUS,817.69,416.54,17,2020,Active
+PRD-000346,Herman Miller Microsoft Designer Keyboard,Accessories,Keyboard,Herman Miller,592.0,360.63,32,2025,Active
+PRD-000347,Ubiquiti Cisco Catalyst,Networking,Switch,Ubiquiti,1668.36,1228.24,16,2023,Discontinued
+PRD-000348,ASUS Metal Storage Cabinet,Furniture,Cabinet,ASUS,625.29,335.65,13,2021,Active
+PRD-000349,Vertex Samsung ViewFinity,Electronics,Monitor,Vertex,2174.93,1374.11,25,2020,Active
+PRD-000350,Netgear Logitech Zone,Accessories,Headset,Netgear,1742.46,1071.52,14,2020,Active
+PRD-000351,Microsoft Archive Cabinet,Furniture,Cabinet,Microsoft,1899.57,1089.33,18,2021,Active
+PRD-000352,Brother Logitech MX Keys,Accessories,Keyboard,Brother,57.74,39.19,26,2022,Active
+PRD-000353,Ubiquiti Pentel EnerGel,Office Supplies,Pen,Ubiquiti,641.91,445.91,13,2020,Active
+PRD-000354,Dell Parker Jotter,Office Supplies,Pen,Dell,1725.72,1214.22,29,2025,Active
+PRD-000355,Microsoft Meeting Notebook,Office Supplies,Notebook,Microsoft,347.98,200.22,35,2024,Active
+PRD-000356,Canon Dell UltraSharp 27,Electronics,Monitor,Canon,1175.73,559.81,33,2024,Discontinued
+PRD-000357,Logitech Vertical File Cabinet,Furniture,Cabinet,Logitech,797.63,391.84,34,2021,Active
+PRD-000358,Netgear Steelcase Series 1,Furniture,Chair,Netgear,1463.07,664.68,34,2025,Active
+PRD-000359,Epson Uni-ball Eye,Office Supplies,Pen,Epson,667.08,313.03,15,2020,Active
+PRD-000360,Vertex Compact Office Desk,Furniture,Desk,Vertex,1214.94,851.15,26,2022,Active
+PRD-000361,Netgear Pilot G2,Office Supplies,Pen,Netgear,709.9,498.47,16,2023,Active
+PRD-000362,Epson Logitech Zone,Accessories,Headset,Epson,508.45,274.64,28,2025,Discontinued
+PRD-000363,Steelcase TP-Link Omada,Networking,Access Point,Steelcase,2027.35,1181.23,35,2021,Active
+PRD-000364,Ubiquiti Hardcover Journal,Office Supplies,Notebook,Ubiquiti,1906.78,1071.93,25,2021,Active
+PRD-000365,Netgear Bose QC Ultra,Accessories,Headset,Netgear,516.4,307.76,30,2025,Active
+PRD-000366,Epson Premium Printer Paper,Office Supplies,Paper,Epson,344.26,166.34,21,2024,Active
+PRD-000367,Herman Miller Ubiquiti UniFi,Networking,Access Point,Herman Miller,2221.49,1261.57,36,2025,Active
+PRD-000368,Cisco Luxor Gel Pen,Office Supplies,Pen,Cisco,2005.16,1026.77,15,2022,Discontinued
+PRD-000369,Steelcase HP Business Keyboard,Accessories,Keyboard,Steelcase,1688.01,943.48,30,2025,Active
+PRD-000370,Brother Ubiquiti Switch,Networking,Switch,Brother,1058.3,515.94,12,2025,Active
+PRD-000371,Cisco Pentel EnerGel,Office Supplies,Pen,Cisco,2302.73,1635.89,28,2023,Active
+PRD-000372,Herman Miller Presentation Paper,Office Supplies,Paper,Herman Miller,898.37,615.2,14,2021,Active
+PRD-000373,Herman Miller Logitech Zone,Accessories,Headset,Herman Miller,1480.13,1016.72,18,2022,Active
+PRD-000374,ASUS D-Link DIR,Networking,Router,ASUS,542.21,260.24,30,2022,Active
+PRD-000375,Steelcase Xerox VersaLink,Electronics,Printer,Steelcase,471.9,310.48,24,2020,Active
+PRD-000376,ASUS Vertex Office Chair,Furniture,Chair,ASUS,1479.82,1057.94,29,2021,Active
+PRD-000377,Epson ThinkPad X1 Carbon,Electronics,Laptop,Epson,501.27,281.66,21,2025,Active
+PRD-000378,HP Mobile Pedestal,Furniture,Cabinet,HP,316.68,151.17,35,2022,Active
+PRD-000379,Microsoft Mobile Pedestal,Furniture,Cabinet,Microsoft,2080.03,970.87,29,2021,Active
+PRD-000380,Logitech Brother HL-L3270,Electronics,Printer,Logitech,1996.42,1132.25,27,2024,Active
+PRD-000381,Cisco Meeting Notebook,Office Supplies,Notebook,Cisco,511.96,282.11,27,2020,Discontinued
+PRD-000382,Herman Miller Archive Cabinet,Furniture,Cabinet,Herman Miller,1840.79,1340.97,29,2023,Active
+PRD-000383,Steelcase Parker Jotter,Office Supplies,Pen,Steelcase,1274.81,614.39,27,2023,Active
+PRD-000384,Canon D-Link DIR,Networking,Router,Canon,236.44,121.89,33,2020,Active
+PRD-000385,Netgear Executive Notebook,Office Supplies,Notebook,Netgear,655.59,433.42,34,2020,Active
+PRD-000386,Logitech ASUS ExpertBook B5,Electronics,Laptop,Logitech,566.1,347.79,32,2020,Active
+PRD-000387,Samsung Vertical File Cabinet,Furniture,Cabinet,Samsung,1299.87,877.46,18,2025,Active
+PRD-000388,Samsung Dell Latitude 7440,Electronics,Laptop,Samsung,852.61,583.49,18,2023,Active
+PRD-000389,Herman Miller Archive Cabinet,Furniture,Cabinet,Herman Miller,2203.5,1257.03,13,2022,Active
+PRD-000390,Netgear Recycled Paper,Office Supplies,Paper,Netgear,1037.38,518.82,35,2022,Active
+PRD-000391,Herman Miller Brother HL-L3270,Electronics,Printer,Herman Miller,2348.67,1373.75,25,2023,Active
+PRD-000392,Vertex Netgear Nighthawk,Networking,Router,Vertex,847.15,428.97,26,2021,Active
+PRD-000393,Logitech Ubiquiti Switch,Networking,Switch,Logitech,2220.37,1351.06,17,2020,Active
+PRD-000394,Vertex Samsung ViewFinity,Electronics,Monitor,Vertex,960.47,462.87,31,2023,Active
+PRD-000395,Bose Meeting Notebook,Office Supplies,Notebook,Bose,1960.93,1124.18,29,2020,Active
+PRD-000396,Canon A4 Copy Paper,Office Supplies,Paper,Canon,1449.89,1047.25,15,2020,Discontinued
+PRD-000397,Samsung Bose QC Ultra,Accessories,Headset,Samsung,1708.49,1172.79,36,2021,Active
+PRD-000398,Cisco Cisco Business Router,Networking,Router,Cisco,2263.37,1622.73,35,2022,Active
+PRD-000399,Herman Miller Photo Paper,Office Supplies,Paper,Herman Miller,115.05,69.56,19,2020,Active
+PRD-000400,LG ErgoFlex Pro,Furniture,Chair,LG,914.7,615.4,13,2025,Active
+PRD-000401,Steelcase Luxor Gel Pen,Office Supplies,Pen,Steelcase,2396.34,1392.19,16,2025,Active
+PRD-000402,ASUS Executive Desk,Furniture,Desk,ASUS,907.36,557.53,19,2025,Discontinued
+PRD-000403,Lenovo TP-Link Archer,Networking,Router,Lenovo,1410.16,748.21,32,2020,Active
+PRD-000404,Brother Pilot G2,Office Supplies,Pen,Brother,1680.31,849.67,20,2020,Discontinued
+PRD-000405,Sony Photo Paper,Office Supplies,Paper,Sony,69.7,45.33,22,2020,Active
+PRD-000406,HP Razer Pro Click,Accessories,Mouse,HP,2456.44,1321.85,19,2024,Active
+PRD-000407,Epson HP EliteBook 840,Electronics,Laptop,Epson,2442.02,1516.72,29,2025,Active
+PRD-000408,Microsoft Herman Miller Aeron,Furniture,Chair,Microsoft,1557.11,1060.17,33,2025,Active
+PRD-000409,Logitech HP Business Keyboard,Accessories,Keyboard,Logitech,1121.69,713.5,21,2024,Active
+PRD-000410,Herman Miller Ubiquiti UniFi,Networking,Access Point,Herman Miller,1754.31,1009.24,31,2024,Active
+PRD-000411,Logitech Presentation Paper,Office Supplies,Paper,Logitech,1431.83,790.29,25,2020,Discontinued
+PRD-000412,HP Microsoft Designer Keyboard,Accessories,Keyboard,HP,1016.44,621.05,35,2023,Discontinued
+PRD-000413,Microsoft Photo Paper,Office Supplies,Paper,Microsoft,805.78,471.01,23,2021,Active
+PRD-000414,Ubiquiti Microsoft Ergonomic Mouse,Accessories,Mouse,Ubiquiti,2469.65,1720.6,21,2021,Active
+PRD-000415,Canon Archive Cabinet,Furniture,Cabinet,Canon,140.59,96.52,21,2024,Active
+PRD-000416,Lenovo Vertical File Cabinet,Furniture,Cabinet,Lenovo,2102.77,1512.87,36,2023,Discontinued
+PRD-000417,Sony Razer Pro Click,Accessories,Mouse,Sony,475.52,294.66,28,2025,Active
+PRD-000418,Herman Miller Jabra Evolve2 65,Accessories,Headset,Herman Miller,2266.47,1189.08,22,2022,Active
+PRD-000419,HP HP Bluetooth Mouse,Accessories,Mouse,HP,248.0,164.72,19,2023,Active
+PRD-000420,Microsoft Poly Voyager,Accessories,Headset,Microsoft,2419.2,1499.96,18,2021,Active
+PRD-000421,LG Archive Cabinet,Furniture,Cabinet,LG,1968.0,1462.08,32,2023,Active
+PRD-000422,LG Microsoft Designer Keyboard,Accessories,Keyboard,LG,304.95,163.51,35,2021,Active
+PRD-000423,Sony Cisco Catalyst,Networking,Switch,Sony,776.55,545.73,36,2021,Active
+PRD-000424,Steelcase Executive Mesh Chair,Furniture,Chair,Steelcase,1139.75,802.33,35,2023,Active
+PRD-000425,Microsoft Metal Storage Cabinet,Furniture,Cabinet,Microsoft,2472.65,1668.84,24,2020,Active
+PRD-000426,Steelcase Meeting Notebook,Office Supplies,Notebook,Steelcase,1489.51,937.19,22,2020,Active
+PRD-000427,HP Microsoft Ergonomic Mouse,Accessories,Mouse,HP,1332.98,631.85,19,2025,Active
+PRD-000428,Microsoft Herman Miller Aeron,Furniture,Chair,Microsoft,82.19,41.87,16,2020,Discontinued
+PRD-000429,Cisco Compact Office Desk,Furniture,Desk,Cisco,951.73,595.09,16,2023,Active
+PRD-000430,Canon ASUS RT-AX,Networking,Router,Canon,1119.81,671.69,16,2020,Active
+PRD-000431,Sony Meeting Notebook,Office Supplies,Notebook,Sony,2235.25,1537.6,21,2022,Active
+PRD-000432,Samsung Vertex Office Chair,Furniture,Chair,Samsung,1620.41,779.09,25,2024,Active
+PRD-000433,Dell Logitech Zone,Accessories,Headset,Dell,41.31,23.88,27,2021,Active
+PRD-000434,ASUS Pentel EnerGel,Office Supplies,Pen,ASUS,2118.11,1428.51,26,2024,Active
+PRD-000435,HP Vertical File Cabinet,Furniture,Cabinet,HP,1370.99,940.32,36,2024,Active
+PRD-000436,ASUS Jabra Evolve2 65,Accessories,Headset,ASUS,1042.33,523.75,23,2022,Active
+PRD-000437,Bose Meeting Notebook,Office Supplies,Notebook,Bose,287.34,173.98,25,2024,Active
+PRD-000438,Sony Microsoft Designer Keyboard,Accessories,Keyboard,Sony,869.36,397.16,29,2025,Active
+PRD-000439,Vertex Photo Paper,Office Supplies,Paper,Vertex,2292.69,1716.28,26,2024,Discontinued
+PRD-000440,Cisco Aruba Instant On,Networking,Access Point,Cisco,1995.78,1163.06,21,2022,Active
+PRD-000441,Epson Cisco Meraki AP,Networking,Access Point,Epson,2271.56,1521.52,26,2024,Active
+PRD-000442,Steelcase Spiral Notebook,Office Supplies,Notebook,Steelcase,661.23,300.08,22,2020,Discontinued
+PRD-000443,Netgear HP LaserJet Pro,Electronics,Printer,Netgear,1772.07,968.56,26,2025,Active
+PRD-000444,TP-Link Aruba Instant On,Networking,Access Point,TP-Link,1093.48,614.77,28,2022,Active
+PRD-000445,Sony Business Planner,Office Supplies,Notebook,Sony,2318.39,1197.42,28,2025,Discontinued
+PRD-000446,Herman Miller TP-Link Omada,Networking,Access Point,Herman Miller,538.27,250.58,28,2023,Active
+PRD-000447,Samsung Herman Miller Aeron,Furniture,Chair,Samsung,675.18,342.85,13,2025,Active
+PRD-000448,HP Acer Nitro XV,Electronics,Monitor,HP,986.15,654.02,36,2025,Active
+PRD-000449,Cisco Metal Storage Cabinet,Furniture,Cabinet,Cisco,2311.49,1042.22,19,2024,Discontinued
+PRD-000450,Vertex Mobile Pedestal,Furniture,Cabinet,Vertex,2421.02,1553.14,22,2023,Active
+PRD-000451,Netgear D-Link DIR,Networking,Router,Netgear,966.77,701.45,16,2025,Active
+PRD-000452,Herman Miller Business Planner,Office Supplies,Notebook,Herman Miller,168.13,112.91,13,2022,Active
+PRD-000453,Brother Pentel EnerGel,Office Supplies,Pen,Brother,1329.67,839.85,20,2024,Active
+PRD-000454,Microsoft Presentation Paper,Office Supplies,Paper,Microsoft,800.5,532.4,28,2022,Active
+PRD-000455,Herman Miller Logitech MX Master 3S,Accessories,Mouse,Herman Miller,2007.96,1069.66,20,2022,Active
+PRD-000456,HP Hardcover Journal,Office Supplies,Notebook,HP,946.92,507.64,20,2024,Active
+PRD-000457,Samsung Pentel EnerGel,Office Supplies,Pen,Samsung,974.83,674.33,15,2020,Active
+PRD-000458,Logitech A4 Copy Paper,Office Supplies,Paper,Logitech,685.99,367.69,27,2024,Active
+PRD-000459,Epson Adjustable Desk,Furniture,Desk,Epson,1276.98,950.71,28,2024,Active
+PRD-000460,Sony Pentel EnerGel,Office Supplies,Pen,Sony,344.67,258.43,24,2021,Active
+PRD-000461,Cisco Presentation Paper,Office Supplies,Paper,Cisco,77.43,57.63,20,2025,Active
+PRD-000462,Steelcase Hardcover Journal,Office Supplies,Notebook,Steelcase,464.53,245.74,14,2024,Active
+PRD-000463,LG Metal Storage Cabinet,Furniture,Cabinet,LG,2200.99,1446.58,24,2023,Active
+PRD-000464,Steelcase Vertex Office Chair,Furniture,Chair,Steelcase,941.97,515.96,17,2020,Active
+PRD-000465,Ubiquiti Acer Nitro XV,Electronics,Monitor,Ubiquiti,654.08,357.17,23,2023,Active
+PRD-000466,Canon Spiral Notebook,Office Supplies,Notebook,Canon,1703.67,1166.1,19,2021,Active
+PRD-000467,Bose TP-Link Archer,Networking,Router,Bose,2458.22,1327.26,33,2025,Discontinued
+PRD-000468,Steelcase Dell Latitude 7440,Electronics,Laptop,Steelcase,455.27,261.32,32,2022,Active
+PRD-000469,LG ThinkPad X1 Carbon,Electronics,Laptop,LG,36.45,23.74,24,2021,Active
+PRD-000470,Herman Miller Presentation Paper,Office Supplies,Paper,Herman Miller,2270.65,1514.73,16,2024,Active
+PRD-000471,LG Mobile Pedestal,Furniture,Cabinet,LG,781.06,551.12,21,2024,Active
+PRD-000472,Lenovo Archive Cabinet,Furniture,Cabinet,Lenovo,2303.11,1689.16,21,2020,Active
+PRD-000473,LG ThinkPad X1 Carbon,Electronics,Laptop,LG,2499.97,1146.39,15,2021,Discontinued
+PRD-000474,Ubiquiti Cisco Meraki AP,Networking,Access Point,Ubiquiti,1598.12,738.67,12,2025,Active
+PRD-000475,Lenovo Meeting Notebook,Office Supplies,Notebook,Lenovo,2471.94,1525.7,31,2024,Active
+PRD-000476,Sony Poly Voyager,Accessories,Headset,Sony,1662.2,910.3,25,2022,Active
+PRD-000477,LG Epson EcoTank,Electronics,Printer,LG,1002.27,701.87,23,2021,Active
+PRD-000478,Microsoft Aruba Instant On,Networking,Access Point,Microsoft,1099.28,505.62,19,2023,Active
+PRD-000479,Vertex Vertical File Cabinet,Furniture,Cabinet,Vertex,78.43,55.06,22,2024,Active
+PRD-000480,Cisco Dell Latitude 7440,Electronics,Laptop,Cisco,1851.81,976.68,29,2025,Active
+PRD-000481,Herman Miller Microsoft Ergonomic Mouse,Accessories,Mouse,Herman Miller,187.52,90.58,35,2020,Active
+PRD-000482,HP TP-Link Easy Smart,Networking,Switch,HP,1617.31,991.98,22,2025,Active
+PRD-000483,Vertex Epson EcoTank,Electronics,Printer,Vertex,1908.34,1294.32,26,2020,Active
+PRD-000484,Lenovo MacBook Pro 14,Electronics,Laptop,Lenovo,677.28,401.3,36,2023,Active
+PRD-000485,Ubiquiti Executive Desk,Furniture,Desk,Ubiquiti,1210.65,788.28,34,2023,Active
+PRD-000486,Epson Logitech Zone,Accessories,Headset,Epson,1769.91,1075.26,31,2020,Active
+PRD-000487,Epson ErgoFlex Pro,Furniture,Chair,Epson,1085.06,703.21,19,2022,Active
+PRD-000488,Bose Steelcase Series 1,Furniture,Chair,Bose,2431.81,1549.48,17,2024,Active
+PRD-000489,Brother Presentation Paper,Office Supplies,Paper,Brother,717.09,482.26,34,2021,Active
+PRD-000490,Samsung ThinkPad X1 Carbon,Electronics,Laptop,Samsung,153.27,73.26,26,2022,Active
+PRD-000491,Herman Miller Presentation Paper,Office Supplies,Paper,Herman Miller,1971.89,1302.66,23,2020,Active
+PRD-000492,Microsoft Xerox VersaLink,Electronics,Printer,Microsoft,2094.27,1106.95,28,2023,Active
+PRD-000493,Vertex Ubiquiti UniFi,Networking,Access Point,Vertex,951.49,517.16,33,2025,Active
+PRD-000494,LG Parker Jotter,Office Supplies,Pen,LG,512.08,315.39,17,2022,Active
+PRD-000495,Bose Keychron K8,Accessories,Keyboard,Bose,84.27,40.07,30,2023,Active
+PRD-000496,Cisco TP-Link Easy Smart,Networking,Switch,Cisco,353.05,202.69,27,2022,Active
+PRD-000497,Netgear A4 Copy Paper,Office Supplies,Paper,Netgear,1193.58,807.64,24,2025,Active
+PRD-000498,LG Brother HL-L3270,Electronics,Printer,LG,521.41,378.59,13,2023,Active
+PRD-000499,Canon Ubiquiti Switch,Networking,Switch,Canon,1082.18,796.53,12,2024,Discontinued
+PRD-000500,Logitech HP LaserJet Pro,Electronics,Printer,Logitech,833.11,390.97,17,2025,Active
+PRD-000501,Steelcase D-Link Managed Switch,Networking,Switch,Steelcase,2119.58,1021.53,23,2022,Active
+PRD-000502,Herman Miller Xerox VersaLink,Electronics,Printer,Herman Miller,1235.24,571.27,23,2025,Active
+PRD-000503,Dell Herman Miller Aeron,Furniture,Chair,Dell,2159.99,1363.62,26,2025,Active
+PRD-000504,LG Parker Jotter,Office Supplies,Pen,LG,1391.12,957.14,31,2020,Active
+PRD-000505,Lenovo Dell KB216,Accessories,Keyboard,Lenovo,1572.49,1133.01,16,2022,Active
+PRD-000506,Canon Logitech MX Master 3S,Accessories,Mouse,Canon,2187.74,1223.4,32,2025,Active
+PRD-000507,ASUS TP-Link Archer,Networking,Router,ASUS,261.4,130.87,30,2023,Active
+PRD-000508,Canon Steelcase Series 1,Furniture,Chair,Canon,1576.13,885.91,21,2025,Active
+PRD-000509,Ubiquiti ThinkPad X1 Carbon,Electronics,Laptop,Ubiquiti,547.79,309.43,16,2023,Active
+PRD-000510,Ubiquiti HP LaserJet Pro,Electronics,Printer,Ubiquiti,1107.46,571.59,36,2023,Active
+PRD-000511,Epson Dell UltraSharp 27,Electronics,Monitor,Epson,360.58,255.14,30,2024,Active
+PRD-000512,Epson TP-Link Easy Smart,Networking,Switch,Epson,395.17,257.31,27,2022,Active
+PRD-000513,Herman Miller Vertical File Cabinet,Furniture,Cabinet,Herman Miller,1804.83,959.24,35,2021,Active
+PRD-000514,Logitech Recycled Paper,Office Supplies,Paper,Logitech,1492.25,1040.57,36,2025,Active
+PRD-000515,Cisco Samsung ViewFinity,Electronics,Monitor,Cisco,1985.7,1108.95,31,2022,Active
+PRD-000516,Logitech Uni-ball Eye,Office Supplies,Pen,Logitech,144.7,85.61,27,2021,Active
+PRD-000517,Steelcase Logitech MX Keys,Accessories,Keyboard,Steelcase,1038.55,553.97,19,2020,Active
+PRD-000518,Epson Logitech MX Master 3S,Accessories,Mouse,Epson,667.77,469.69,12,2022,Active
+PRD-000519,Dell Ubiquiti Switch,Networking,Switch,Dell,244.64,166.07,30,2025,Active
+PRD-000520,Bose Bose QC Ultra,Accessories,Headset,Bose,1077.48,804.7,34,2023,Active
+PRD-000521,Sony Cisco Meraki AP,Networking,Access Point,Sony,1728.26,835.82,26,2025,Active
+PRD-000522,Microsoft Microsoft Ergonomic Mouse,Accessories,Mouse,Microsoft,2323.9,1218.49,28,2024,Active
+PRD-000523,Steelcase Executive Mesh Chair,Furniture,Chair,Steelcase,2224.12,1185.46,19,2025,Active
+PRD-000524,Samsung Poly Voyager,Accessories,Headset,Samsung,1797.26,1039.58,20,2020,Active
+PRD-000525,HP TP-Link Omada,Networking,Access Point,HP,1760.78,823.49,18,2021,Active
+PRD-000526,HP Sony WH-1000XM5,Accessories,Headset,HP,2106.7,969.95,22,2021,Discontinued
+PRD-000527,TP-Link Netgear Nighthawk,Networking,Router,TP-Link,235.68,167.49,34,2024,Active
+PRD-000528,Canon D-Link Managed Switch,Networking,Switch,Canon,1015.57,643.01,18,2023,Active
+PRD-000529,Lenovo Netgear Smart Switch,Networking,Switch,Lenovo,641.23,395.83,16,2023,Active
+PRD-000530,Ubiquiti Steelcase Series 1,Furniture,Chair,Ubiquiti,957.53,598.12,15,2025,Active
+PRD-000531,HP Logitech MX Keys,Accessories,Keyboard,HP,1875.03,1111.21,16,2020,Active
+PRD-000532,Dell Ubiquiti UniFi,Networking,Access Point,Dell,1370.39,1003.38,17,2021,Active
+PRD-000533,TP-Link Dell Wireless Mouse,Accessories,Mouse,TP-Link,2296.54,1595.11,36,2021,Active
+PRD-000534,Vertex Pentel EnerGel,Office Supplies,Pen,Vertex,842.32,406.35,26,2024,Active
+PRD-000535,Epson LG UltraFine 32,Electronics,Monitor,Epson,821.72,527.28,28,2021,Active
+PRD-000536,Dell Poly Voyager,Accessories,Headset,Dell,1941.14,1347.26,25,2025,Discontinued
+PRD-000537,Samsung Parker Jotter,Office Supplies,Pen,Samsung,36.23,19.97,16,2020,Active
+PRD-000538,Lenovo MacBook Pro 14,Electronics,Laptop,Lenovo,1453.95,810.8,17,2023,Active
+PRD-000539,Herman Miller Uni-ball Eye,Office Supplies,Pen,Herman Miller,1103.35,680.82,35,2022,Active
+PRD-000540,Herman Miller Hardcover Journal,Office Supplies,Notebook,Herman Miller,203.11,120.46,14,2023,Active
+PRD-000541,Microsoft Samsung ViewFinity,Electronics,Monitor,Microsoft,399.85,201.12,34,2024,Active
+PRD-000542,Ubiquiti Meeting Notebook,Office Supplies,Notebook,Ubiquiti,2319.32,1127.87,18,2024,Active
+PRD-000543,Cisco Photo Paper,Office Supplies,Paper,Cisco,2408.01,1205.92,35,2020,Active
+PRD-000544,ASUS Mobile Pedestal,Furniture,Cabinet,ASUS,1646.81,1099.76,26,2020,Discontinued
+PRD-000545,Cisco Spiral Notebook,Office Supplies,Notebook,Cisco,715.93,376.0,31,2024,Active
+PRD-000546,ASUS Samsung ViewFinity,Electronics,Monitor,ASUS,1189.94,558.27,30,2025,Active
+PRD-000547,LG HP LaserJet Pro,Electronics,Printer,LG,725.24,339.29,26,2022,Discontinued
+PRD-000548,TP-Link MacBook Pro 14,Electronics,Laptop,TP-Link,378.71,219.37,28,2020,Active
+PRD-000549,LG Keychron K8,Accessories,Keyboard,LG,408.48,211.94,17,2024,Active
+PRD-000550,Cisco Premium Printer Paper,Office Supplies,Paper,Cisco,1455.98,820.21,33,2022,Active
+PRD-000551,Steelcase Brother HL-L3270,Electronics,Printer,Steelcase,1915.18,1171.73,23,2021,Active
+PRD-000552,Microsoft Dell Wireless Mouse,Accessories,Mouse,Microsoft,941.29,595.81,34,2023,Active
+PRD-000553,Samsung MacBook Pro 14,Electronics,Laptop,Samsung,2214.88,1396.14,27,2023,Active
+PRD-000554,Steelcase Dell Latitude 7440,Electronics,Laptop,Steelcase,1820.09,1040.61,23,2022,Discontinued
+PRD-000555,TP-Link Ubiquiti UniFi,Networking,Access Point,TP-Link,1936.5,1083.69,33,2021,Active
+PRD-000556,Sony Keychron K8,Accessories,Keyboard,Sony,1297.16,656.95,32,2024,Active
+PRD-000557,Cisco Xerox VersaLink,Electronics,Printer,Cisco,530.06,388.89,17,2022,Active
+PRD-000558,Epson Meeting Notebook,Office Supplies,Notebook,Epson,2213.75,1290.77,24,2020,Active
+PRD-000559,Logitech Mobile Pedestal,Furniture,Cabinet,Logitech,270.73,136.18,22,2022,Active
+PRD-000560,Logitech Cisco Meraki AP,Networking,Access Point,Logitech,1682.79,1137.65,18,2021,Active
+PRD-000561,TP-Link ASUS ExpertBook B5,Electronics,Laptop,TP-Link,67.85,44.37,16,2025,Active
+PRD-000562,Bose Poly Voyager,Accessories,Headset,Bose,1990.64,1421.67,28,2023,Active
+PRD-000563,LG Microsoft Ergonomic Mouse,Accessories,Mouse,LG,134.68,98.46,15,2025,Active
+PRD-000564,Cisco Razer Pro Click,Accessories,Mouse,Cisco,821.62,417.03,36,2022,Discontinued
+PRD-000565,Sony Microsoft Ergonomic Mouse,Accessories,Mouse,Sony,2184.09,1092.6,17,2020,Active
+PRD-000566,Ubiquiti Spiral Notebook,Office Supplies,Notebook,Ubiquiti,634.13,412.13,29,2021,Active
+PRD-000567,Microsoft ASUS RT-AX,Networking,Router,Microsoft,2179.59,1165.43,36,2020,Active
+PRD-000568,Cisco Logitech MX Master 3S,Accessories,Mouse,Cisco,654.9,360.42,33,2020,Discontinued
+PRD-000569,Brother Epson EcoTank,Electronics,Printer,Brother,714.36,463.84,36,2022,Active
+PRD-000570,Brother Parker Jotter,Office Supplies,Pen,Brother,1466.38,688.35,34,2025,Active
+PRD-000571,Sony TP-Link Omada,Networking,Access Point,Sony,2477.15,1570.39,32,2025,Active
+PRD-000572,Ubiquiti BenQ PD2705,Electronics,Monitor,Ubiquiti,707.4,318.79,21,2024,Active
+PRD-000573,ASUS Brother HL-L3270,Electronics,Printer,ASUS,198.68,129.19,12,2020,Active
+PRD-000574,Vertex D-Link Managed Switch,Networking,Switch,Vertex,1070.11,534.79,28,2022,Discontinued
+PRD-000575,Samsung Jabra Evolve2 65,Accessories,Headset,Samsung,40.51,22.27,32,2025,Discontinued
+PRD-000576,Lenovo Brother HL-L3270,Electronics,Printer,Lenovo,1295.37,710.48,14,2023,Active
+PRD-000577,Lenovo Samsung ViewFinity,Electronics,Monitor,Lenovo,1767.3,1232.47,15,2023,Active
+PRD-000578,Herman Miller HP Bluetooth Mouse,Accessories,Mouse,Herman Miller,1552.6,742.74,12,2025,Active
+PRD-000579,Bose Metal Storage Cabinet,Furniture,Cabinet,Bose,1193.26,653.64,20,2021,Active
+PRD-000580,Lenovo HP LaserJet Pro,Electronics,Printer,Lenovo,1044.91,504.83,20,2023,Active
+PRD-000581,Dell Microsoft Ergonomic Mouse,Accessories,Mouse,Dell,857.23,564.7,15,2022,Active
+PRD-000582,Herman Miller HP Business Keyboard,Accessories,Keyboard,Herman Miller,279.16,175.52,13,2024,Active
+PRD-000583,Logitech Netgear Nighthawk,Networking,Router,Logitech,84.83,38.87,20,2021,Active
+PRD-000584,Vertex Parker Jotter,Office Supplies,Pen,Vertex,1998.81,1305.52,31,2022,Active
+PRD-000585,Sony Archive Cabinet,Furniture,Cabinet,Sony,384.35,247.66,34,2021,Active
+PRD-000586,Steelcase Steelcase Series 1,Furniture,Chair,Steelcase,1942.68,1299.97,15,2024,Active
+PRD-000587,Vertex Pilot G2,Office Supplies,Pen,Vertex,912.23,440.83,24,2021,Active
+PRD-000588,Dell Steelcase Series 1,Furniture,Chair,Dell,1810.54,1165.47,27,2020,Discontinued
+PRD-000589,Epson Sony WH-1000XM5,Accessories,Headset,Epson,1258.13,674.43,32,2021,Active
+PRD-000590,Bose Dell Latitude 7440,Electronics,Laptop,Bose,2025.2,1290.47,34,2023,Active
+PRD-000591,Samsung HP Bluetooth Mouse,Accessories,Mouse,Samsung,1027.08,513.18,14,2023,Active
+PRD-000592,Canon Brother HL-L3270,Electronics,Printer,Canon,1080.24,575.59,16,2021,Active
+PRD-000593,HP Executive Mesh Chair,Furniture,Chair,HP,1436.13,1064.44,29,2024,Active
+PRD-000594,Dell Razer Pro Click,Accessories,Mouse,Dell,406.73,195.24,23,2023,Active
+PRD-000595,LG Netgear Insight AP,Networking,Access Point,LG,254.51,129.51,23,2025,Active
+PRD-000596,Ubiquiti TP-Link Archer,Networking,Router,Ubiquiti,251.27,126.84,18,2025,Active
+PRD-000597,Samsung Uni-ball Eye,Office Supplies,Pen,Samsung,742.81,552.02,25,2020,Discontinued
+PRD-000598,Bose Razer Pro Click,Accessories,Mouse,Bose,958.62,606.1,24,2024,Active
+PRD-000599,Bose Logitech MX Keys,Accessories,Keyboard,Bose,1516.65,1071.13,26,2021,Active
+PRD-000600,Bose Premium Printer Paper,Office Supplies,Paper,Bose,28.81,19.58,18,2022,Active
+PRD-000601,Canon TP-Link Archer,Networking,Router,Canon,226.06,168.33,16,2025,Active
+PRD-000602,Bose Luxor Gel Pen,Office Supplies,Pen,Bose,575.32,344.22,35,2023,Active
+PRD-000603,Vertex Hardcover Journal,Office Supplies,Notebook,Vertex,1146.03,787.23,14,2024,Active
+PRD-000604,Cisco Brother HL-L3270,Electronics,Printer,Cisco,1255.53,792.28,21,2022,Active
+PRD-000605,Sony ASUS ExpertBook B5,Electronics,Laptop,Sony,2133.44,1215.25,19,2023,Active
+PRD-000606,Ubiquiti Luxor Gel Pen,Office Supplies,Pen,Ubiquiti,2273.63,1286.22,25,2025,Active
+PRD-000607,HP Uni-ball Eye,Office Supplies,Pen,HP,1720.96,846.02,13,2023,Active
+PRD-000608,Steelcase Hardcover Journal,Office Supplies,Notebook,Steelcase,1780.94,886.68,35,2021,Discontinued
+PRD-000609,Canon Executive Desk,Furniture,Desk,Canon,1577.99,745.6,15,2023,Active
+PRD-000610,Sony Pilot G2,Office Supplies,Pen,Sony,572.36,275.25,34,2023,Active
+PRD-000611,Cisco Logitech Zone,Accessories,Headset,Cisco,395.89,230.81,28,2024,Active
+PRD-000612,ASUS Dell UltraSharp 27,Electronics,Monitor,ASUS,1859.43,1371.02,25,2025,Active
+PRD-000613,Logitech ASUS ExpertBook B5,Electronics,Laptop,Logitech,245.99,148.5,29,2024,Active
+PRD-000614,TP-Link Meeting Notebook,Office Supplies,Notebook,TP-Link,2045.75,1320.58,33,2025,Discontinued
+PRD-000615,Netgear Vertical File Cabinet,Furniture,Cabinet,Netgear,2025.45,1230.9,13,2022,Active
+PRD-000616,Samsung Adjustable Desk,Furniture,Desk,Samsung,388.13,206.24,24,2023,Active
+PRD-000617,Microsoft Pentel EnerGel,Office Supplies,Pen,Microsoft,1973.94,977.19,35,2021,Active
+PRD-000618,Sony Microsoft Ergonomic Mouse,Accessories,Mouse,Sony,191.14,142.45,34,2022,Discontinued
+PRD-000619,Bose Steelcase Series 1,Furniture,Chair,Bose,1348.48,949.32,34,2023,Active
+PRD-000620,Bose Canon imageCLASS,Electronics,Printer,Bose,2498.76,1792.52,26,2021,Active
+PRD-000621,HP ThinkPad X1 Carbon,Electronics,Laptop,HP,2048.37,1151.16,25,2024,Active
+PRD-000622,Microsoft Dell Latitude 7440,Electronics,Laptop,Microsoft,1603.96,803.56,19,2024,Active
+PRD-000623,Microsoft Mobile Pedestal,Furniture,Cabinet,Microsoft,2285.36,1650.09,30,2023,Discontinued
+PRD-000624,Sony Vertex Office Chair,Furniture,Chair,Sony,2341.43,1206.62,22,2023,Active
+PRD-000625,Cisco Photo Paper,Office Supplies,Paper,Cisco,1290.24,807.61,31,2024,Active
+PRD-000626,ASUS ThinkPad X1 Carbon,Electronics,Laptop,ASUS,2026.33,1307.22,18,2024,Active
+PRD-000627,Cisco Sony WH-1000XM5,Accessories,Headset,Cisco,522.71,357.84,14,2020,Active
+PRD-000628,Ubiquiti Logitech MX Master 3S,Accessories,Mouse,Ubiquiti,774.44,354.62,12,2021,Discontinued
+PRD-000629,TP-Link Canon imageCLASS,Electronics,Printer,TP-Link,1622.97,840.07,27,2025,Active
+PRD-000630,HP Executive Desk,Furniture,Desk,HP,2011.95,1167.41,27,2021,Active
+PRD-000631,Logitech Epson EcoTank,Electronics,Printer,Logitech,1617.47,958.8,16,2025,Active
+PRD-000632,Dell Hardcover Journal,Office Supplies,Notebook,Dell,1784.21,918.18,30,2023,Active
+PRD-000633,Canon Samsung ViewFinity,Electronics,Monitor,Canon,1425.74,937.26,19,2023,Active
+PRD-000634,ASUS Herman Miller Aeron,Furniture,Chair,ASUS,1496.68,1076.13,31,2022,Active
+PRD-000635,Cisco Canon imageCLASS,Electronics,Printer,Cisco,1167.78,837.53,30,2024,Active
+PRD-000636,Cisco Presentation Paper,Office Supplies,Paper,Cisco,922.66,418.68,35,2023,Discontinued
+PRD-000637,Netgear D-Link Managed Switch,Networking,Switch,Netgear,1274.34,599.64,32,2021,Active
+PRD-000638,Vertex Cisco Catalyst,Networking,Switch,Vertex,2375.88,1548.54,30,2023,Active
+PRD-000639,Dell Adjustable Desk,Furniture,Desk,Dell,907.98,454.26,16,2023,Active
+PRD-000640,Brother Aruba Instant On,Networking,Access Point,Brother,1314.95,968.8,19,2025,Active
+PRD-000641,TP-Link Microsoft Designer Keyboard,Accessories,Keyboard,TP-Link,2043.53,1084.8,36,2022,Active
+PRD-000642,Samsung Ubiquiti Switch,Networking,Switch,Samsung,153.5,72.66,21,2025,Active
+PRD-000643,Dell Acer Nitro XV,Electronics,Monitor,Dell,404.35,199.08,31,2024,Discontinued
+PRD-000644,HP Steelcase Series 1,Furniture,Chair,HP,676.22,469.48,21,2023,Active
+PRD-000645,ASUS HP EliteBook 840,Electronics,Laptop,ASUS,2336.5,1234.08,18,2020,Active
+PRD-000646,Logitech Netgear Smart Switch,Networking,Switch,Logitech,2389.34,1705.71,26,2020,Active
+PRD-000647,Canon Acer Nitro XV,Electronics,Monitor,Canon,1060.1,758.98,16,2025,Active
+PRD-000648,Canon Ubiquiti Switch,Networking,Switch,Canon,2383.59,1465.72,29,2023,Active
+PRD-000649,Microsoft A4 Copy Paper,Office Supplies,Paper,Microsoft,578.71,364.85,18,2024,Active
+PRD-000650,Lenovo Wooden File Cabinet,Furniture,Cabinet,Lenovo,2073.4,1147.39,29,2020,Active
+PRD-000651,Canon Hardcover Journal,Office Supplies,Notebook,Canon,1951.03,1365.84,16,2025,Discontinued
+PRD-000652,Samsung Netgear Nighthawk,Networking,Router,Samsung,1675.44,1207.44,14,2025,Discontinued
+PRD-000653,Microsoft Poly Voyager,Accessories,Headset,Microsoft,1201.28,667.88,16,2024,Active
+PRD-000654,Canon D-Link DIR,Networking,Router,Canon,451.81,220.96,23,2025,Active
+PRD-000655,Bose Razer Pro Click,Accessories,Mouse,Bose,2331.23,1197.85,18,2021,Active
+PRD-000656,ASUS Cisco Meraki AP,Networking,Access Point,ASUS,2173.79,1497.63,24,2021,Active
+PRD-000657,TP-Link Archive Cabinet,Furniture,Cabinet,TP-Link,1609.36,905.71,35,2021,Active
+PRD-000658,TP-Link Logitech MX Keys,Accessories,Keyboard,TP-Link,1447.36,764.05,25,2023,Active
+PRD-000659,Samsung Parker Jotter,Office Supplies,Pen,Samsung,1934.22,1124.54,15,2025,Active
+PRD-000660,LG Brother HL-L3270,Electronics,Printer,LG,109.86,65.91,12,2022,Active
+PRD-000661,Brother Ubiquiti UniFi,Networking,Access Point,Brother,1345.4,1004.89,15,2024,Active
+PRD-000662,Lenovo Executive Mesh Chair,Furniture,Chair,Lenovo,426.28,245.45,25,2021,Active
+PRD-000663,Vertex Logitech Zone,Accessories,Headset,Vertex,705.82,499.33,13,2020,Active
+PRD-000664,Herman Miller Compact Office Desk,Furniture,Desk,Herman Miller,2416.79,1602.24,29,2022,Active
+PRD-000665,HP Executive Notebook,Office Supplies,Notebook,HP,845.23,492.15,21,2024,Active
+PRD-000666,Steelcase Logitech Zone,Accessories,Headset,Steelcase,918.51,628.58,19,2025,Active
+PRD-000667,Logitech Keychron K8,Accessories,Keyboard,Logitech,255.8,141.02,16,2020,Active
+PRD-000668,HP Luxor Gel Pen,Office Supplies,Pen,HP,1815.98,885.89,33,2022,Active
+PRD-000669,Cisco Archive Cabinet,Furniture,Cabinet,Cisco,1166.03,610.27,36,2021,Active
+PRD-000670,Canon Xerox VersaLink,Electronics,Printer,Canon,258.7,133.25,17,2023,Active
+PRD-000671,Sony MacBook Pro 14,Electronics,Laptop,Sony,2096.75,1518.89,30,2025,Active
+PRD-000672,Ubiquiti Razer Pro Click,Accessories,Mouse,Ubiquiti,461.99,226.25,27,2024,Active
+PRD-000673,Microsoft Luxor Gel Pen,Office Supplies,Pen,Microsoft,2233.91,1245.18,29,2023,Active
+PRD-000674,Netgear Cisco Catalyst,Networking,Switch,Netgear,2221.1,1251.21,25,2021,Discontinued
+PRD-000675,Logitech Jabra Evolve2 65,Accessories,Headset,Logitech,2133.54,1375.26,13,2023,Active
+PRD-000676,Lenovo Adjustable Desk,Furniture,Desk,Lenovo,1907.59,1163.62,17,2022,Active
+PRD-000677,Vertex Parker Jotter,Office Supplies,Pen,Vertex,2157.32,1189.5,34,2025,Active
+PRD-000678,Microsoft Uni-ball Eye,Office Supplies,Pen,Microsoft,1658.34,819.37,23,2021,Active
+PRD-000679,Brother Uni-ball Eye,Office Supplies,Pen,Brother,2016.48,1347.15,21,2022,Active
+PRD-000680,Lenovo Cisco Meraki AP,Networking,Access Point,Lenovo,2275.37,1048.24,27,2021,Discontinued
+PRD-000681,Epson Logitech Zone,Accessories,Headset,Epson,1926.88,1304.13,19,2025,Active
+PRD-000682,Samsung HP EliteBook 840,Electronics,Laptop,Samsung,228.5,158.82,28,2025,Active
+PRD-000683,Vertex Adjustable Desk,Furniture,Desk,Vertex,1425.65,770.01,25,2020,Active
+PRD-000684,Dell Recycled Paper,Office Supplies,Paper,Dell,606.09,310.62,31,2020,Active
+PRD-000685,Brother ThinkPad X1 Carbon,Electronics,Laptop,Brother,193.15,139.55,19,2022,Active
+PRD-000686,HP Business Planner,Office Supplies,Notebook,HP,986.19,724.51,17,2022,Discontinued
+PRD-000687,Dell Samsung ViewFinity,Electronics,Monitor,Dell,1767.94,1206.47,22,2024,Discontinued
+PRD-000688,Herman Miller Netgear Smart Switch,Networking,Switch,Herman Miller,2483.35,1736.27,34,2024,Discontinued
+PRD-000689,HP Recycled Paper,Office Supplies,Paper,HP,2371.18,1676.02,31,2025,Active
+PRD-000690,Netgear Ubiquiti Switch,Networking,Switch,Netgear,179.21,81.18,33,2024,Active
+PRD-000691,TP-Link Cisco Catalyst,Networking,Switch,TP-Link,1619.57,1177.95,36,2021,Active
+PRD-000692,LG Spiral Notebook,Office Supplies,Notebook,LG,758.25,421.67,18,2022,Active
+PRD-000693,Sony ThinkPad X1 Carbon,Electronics,Laptop,Sony,987.98,535.9,12,2021,Active
+PRD-000694,Lenovo Acer Nitro XV,Electronics,Monitor,Lenovo,1257.43,857.2,24,2023,Active
+PRD-000695,Samsung Premium Printer Paper,Office Supplies,Paper,Samsung,120.15,78.98,27,2023,Active
+PRD-000696,Samsung Uni-ball Eye,Office Supplies,Pen,Samsung,296.53,208.17,29,2024,Discontinued
+PRD-000697,ASUS Photo Paper,Office Supplies,Paper,ASUS,1609.64,1203.91,23,2020,Active
+PRD-000698,ASUS Photo Paper,Office Supplies,Paper,ASUS,1023.3,749.49,18,2024,Discontinued
+PRD-000699,Lenovo Ubiquiti UniFi,Networking,Access Point,Lenovo,643.92,367.69,16,2020,Active
+PRD-000700,LG Pentel EnerGel,Office Supplies,Pen,LG,1350.07,637.19,25,2025,Discontinued
+PRD-000701,Brother Luxor Gel Pen,Office Supplies,Pen,Brother,1569.75,947.34,15,2024,Active
+PRD-000702,Vertex HP LaserJet Pro,Electronics,Printer,Vertex,162.15,92.35,26,2025,Active
+PRD-000703,Lenovo Aruba Instant On,Networking,Access Point,Lenovo,2128.88,1520.9,31,2021,Discontinued
+PRD-000704,Brother Recycled Paper,Office Supplies,Paper,Brother,434.84,294.63,32,2023,Active
+PRD-000705,Canon D-Link Managed Switch,Networking,Switch,Canon,1093.46,625.82,20,2020,Active
+PRD-000706,Steelcase Vertex Office Chair,Furniture,Chair,Steelcase,1448.9,945.22,35,2021,Active
+PRD-000707,Samsung Epson EcoTank,Electronics,Printer,Samsung,365.83,254.29,25,2020,Active
+PRD-000708,Dell Mobile Pedestal,Furniture,Cabinet,Dell,2009.89,1134.34,36,2023,Active
+PRD-000709,TP-Link Compact Office Desk,Furniture,Desk,TP-Link,1854.49,1064.69,19,2022,Active
+PRD-000710,HP Cisco Meraki AP,Networking,Access Point,HP,2345.03,1364.84,27,2022,Discontinued
+PRD-000711,Dell Photo Paper,Office Supplies,Paper,Dell,2497.69,1837.94,18,2024,Active
+PRD-000712,Ubiquiti Cisco Catalyst,Networking,Switch,Ubiquiti,1897.07,1395.45,13,2024,Active
+PRD-000713,Canon Parker Jotter,Office Supplies,Pen,Canon,307.16,213.41,20,2020,Active
+PRD-000714,Epson Netgear Nighthawk,Networking,Router,Epson,2421.32,1480.56,16,2024,Active
+PRD-000715,Samsung Netgear Insight AP,Networking,Access Point,Samsung,2247.84,1477.1,22,2020,Active
+PRD-000716,Herman Miller BenQ PD2705,Electronics,Monitor,Herman Miller,257.37,164.7,23,2023,Discontinued
+PRD-000717,Cisco A4 Copy Paper,Office Supplies,Paper,Cisco,985.84,533.38,15,2024,Active
+PRD-000718,Vertex Recycled Paper,Office Supplies,Paper,Vertex,2005.81,1017.52,33,2024,Active
+PRD-000719,ASUS Compact Office Desk,Furniture,Desk,ASUS,167.46,114.81,25,2023,Discontinued
+PRD-000720,Samsung Samsung ViewFinity,Electronics,Monitor,Samsung,311.82,221.67,24,2021,Active
+PRD-000721,LG Photo Paper,Office Supplies,Paper,LG,901.15,597.64,22,2023,Active
+PRD-000722,Steelcase Adjustable Desk,Furniture,Desk,Steelcase,1017.62,732.53,23,2025,Active
+PRD-000723,Cisco Compact Office Desk,Furniture,Desk,Cisco,1038.88,651.68,29,2022,Active
+PRD-000724,Samsung Metal Storage Cabinet,Furniture,Cabinet,Samsung,2421.87,1482.42,24,2023,Active
+PRD-000725,Brother Aruba Instant On,Networking,Access Point,Brother,1220.88,749.84,32,2025,Active
+PRD-000726,Ubiquiti D-Link Managed Switch,Networking,Switch,Ubiquiti,2066.59,1203.13,24,2020,Discontinued
+PRD-000727,ASUS Samsung ViewFinity,Electronics,Monitor,ASUS,2092.54,1365.53,25,2025,Active
+PRD-000728,ASUS Compact Office Desk,Furniture,Desk,ASUS,2419.42,1451.81,31,2023,Active
+PRD-000729,Epson Bose QC Ultra,Accessories,Headset,Epson,895.12,631.33,25,2021,Active
+PRD-000730,Dell Aruba Instant On,Networking,Access Point,Dell,1049.77,494.08,30,2025,Active
+PRD-000731,Bose Cisco Business Router,Networking,Router,Bose,1636.21,790.54,22,2024,Active
+PRD-000732,Steelcase Meeting Notebook,Office Supplies,Notebook,Steelcase,2431.4,1185.03,19,2024,Active
+PRD-000733,Lenovo Canon imageCLASS,Electronics,Printer,Lenovo,2402.77,1106.89,24,2024,Active
+PRD-000734,Steelcase D-Link DIR,Networking,Router,Steelcase,2476.21,1357.2,26,2020,Active
+PRD-000735,Canon Dell Wireless Mouse,Accessories,Mouse,Canon,1841.21,1022.67,34,2020,Active
+PRD-000736,Dell HP EliteBook 840,Electronics,Laptop,Dell,1212.42,638.02,31,2025,Active
+PRD-000737,Logitech Steelcase Series 1,Furniture,Chair,Logitech,1707.77,1201.81,32,2022,Active
+PRD-000738,Bose Microsoft Designer Keyboard,Accessories,Keyboard,Bose,740.55,493.37,24,2021,Active
+PRD-000739,Steelcase Uni-ball Eye,Office Supplies,Pen,Steelcase,562.53,270.49,25,2023,Active
+PRD-000740,Microsoft Xerox VersaLink,Electronics,Printer,Microsoft,819.3,437.45,18,2020,Discontinued
+PRD-000741,Microsoft Recycled Paper,Office Supplies,Paper,Microsoft,691.49,373.17,32,2020,Active
+PRD-000742,Brother Cisco Meraki AP,Networking,Access Point,Brother,1244.81,662.77,22,2022,Active
+PRD-000743,Brother Logitech MX Keys,Accessories,Keyboard,Brother,539.27,243.2,20,2023,Discontinued
+PRD-000744,Bose Pilot G2,Office Supplies,Pen,Bose,1022.75,464.93,32,2020,Active
+PRD-000745,Ubiquiti Executive Mesh Chair,Furniture,Chair,Ubiquiti,1878.82,856.79,23,2024,Active
+PRD-000746,Dell Vertex Office Chair,Furniture,Chair,Dell,2029.06,922.3,31,2022,Active
+PRD-000747,Microsoft Executive Notebook,Office Supplies,Notebook,Microsoft,716.71,452.4,33,2023,Active
+PRD-000748,Canon Dell UltraSharp 27,Electronics,Monitor,Canon,1352.57,713.56,25,2024,Active
+PRD-000749,Cisco Canon imageCLASS,Electronics,Printer,Cisco,1570.08,1141.85,34,2022,Active
+PRD-000750,Sony Wooden File Cabinet,Furniture,Cabinet,Sony,1613.11,1180.38,12,2022,Active
+PRD-000751,Samsung A4 Copy Paper,Office Supplies,Paper,Samsung,1305.99,839.11,16,2025,Active
+PRD-000752,Bose HP Business Keyboard,Accessories,Keyboard,Bose,812.3,443.14,15,2022,Active
+PRD-000753,ASUS Ubiquiti UniFi,Networking,Access Point,ASUS,1521.05,712.2,14,2021,Active
+PRD-000754,ASUS Metal Storage Cabinet,Furniture,Cabinet,ASUS,854.82,539.92,35,2020,Active
+PRD-000755,Sony Executive Desk,Furniture,Desk,Sony,804.87,476.99,31,2022,Active
+PRD-000756,Ubiquiti Ubiquiti UniFi,Networking,Access Point,Ubiquiti,1345.53,863.76,14,2022,Active
+PRD-000757,Lenovo A4 Copy Paper,Office Supplies,Paper,Lenovo,2104.16,1301.86,19,2024,Active
+PRD-000758,Sony Meeting Notebook,Office Supplies,Notebook,Sony,277.83,130.81,28,2025,Active
+PRD-000759,Bose Cisco Meraki AP,Networking,Access Point,Bose,948.28,474.75,29,2020,Active
+PRD-000760,LG Recycled Paper,Office Supplies,Paper,LG,47.27,32.03,14,2020,Active
+PRD-000761,Herman Miller Canon imageCLASS,Electronics,Printer,Herman Miller,1902.34,966.91,13,2024,Active
+PRD-000762,Netgear Sony WH-1000XM5,Accessories,Headset,Netgear,2036.83,1486.0,18,2021,Active
+PRD-000763,Cisco Ubiquiti UniFi,Networking,Access Point,Cisco,293.92,216.52,33,2020,Discontinued
+PRD-000764,Logitech BenQ PD2705,Electronics,Monitor,Logitech,1579.9,726.64,34,2025,Active
+PRD-000765,Epson Razer Pro Click,Accessories,Mouse,Epson,2065.63,1076.88,33,2020,Active
+PRD-000766,TP-Link Vertical File Cabinet,Furniture,Cabinet,TP-Link,1332.82,634.44,12,2022,Active
+PRD-000767,Steelcase Cisco Business Router,Networking,Router,Steelcase,837.46,388.94,14,2020,Active
+PRD-000768,Vertex Poly Voyager,Accessories,Headset,Vertex,1475.94,851.82,26,2025,Discontinued
+PRD-000769,Logitech Hardcover Journal,Office Supplies,Notebook,Logitech,1778.18,1290.08,32,2023,Active
+PRD-000770,Lenovo Cisco Catalyst,Networking,Switch,Lenovo,978.11,444.49,26,2021,Active
+PRD-000771,Cisco Presentation Paper,Office Supplies,Paper,Cisco,204.42,113.38,32,2024,Active
+PRD-000772,Bose Netgear Smart Switch,Networking,Switch,Bose,796.61,400.6,32,2020,Discontinued
+PRD-000773,Brother Pentel EnerGel,Office Supplies,Pen,Brother,2129.58,980.69,27,2025,Discontinued
+PRD-000774,TP-Link Photo Paper,Office Supplies,Paper,TP-Link,403.16,278.66,19,2024,Active
+PRD-000775,Bose Presentation Paper,Office Supplies,Paper,Bose,836.65,452.54,22,2022,Active
+PRD-000776,Sony Recycled Paper,Office Supplies,Paper,Sony,2328.35,1274.96,18,2020,Discontinued
+PRD-000777,Dell Herman Miller Aeron,Furniture,Chair,Dell,445.7,277.28,34,2020,Discontinued
+PRD-000778,Bose Standing Desk Pro,Furniture,Desk,Bose,977.46,617.04,35,2025,Active
+PRD-000779,Sony Photo Paper,Office Supplies,Paper,Sony,1086.69,758.43,27,2023,Active
+PRD-000780,ASUS Poly Voyager,Accessories,Headset,ASUS,1956.22,1327.56,24,2025,Active
+PRD-000781,Netgear Samsung ViewFinity,Electronics,Monitor,Netgear,2407.56,1430.46,17,2022,Active
+PRD-000782,HP HP Bluetooth Mouse,Accessories,Mouse,HP,1208.77,564.55,36,2024,Active
+PRD-000783,Netgear L-Shaped Workstation,Furniture,Desk,Netgear,2128.6,1250.22,15,2025,Active
+PRD-000784,Cisco ThinkPad X1 Carbon,Electronics,Laptop,Cisco,389.12,284.76,18,2021,Active
+PRD-000785,Microsoft Cisco Meraki AP,Networking,Access Point,Microsoft,1096.93,739.54,17,2022,Active
+PRD-000786,Microsoft BenQ PD2705,Electronics,Monitor,Microsoft,304.6,145.03,16,2021,Active
+PRD-000787,Samsung Business Planner,Office Supplies,Notebook,Samsung,1128.88,834.72,32,2024,Active
+PRD-000788,Cisco Dell Latitude 7440,Electronics,Laptop,Cisco,166.17,89.36,31,2021,Active
+PRD-000789,Ubiquiti Logitech Zone,Accessories,Headset,Ubiquiti,360.83,223.44,34,2022,Active
+PRD-000790,Dell HP Business Keyboard,Accessories,Keyboard,Dell,119.15,69.74,33,2024,Active
+PRD-000791,Herman Miller Photo Paper,Office Supplies,Paper,Herman Miller,1605.24,842.87,19,2022,Active
+PRD-000792,Sony Spiral Notebook,Office Supplies,Notebook,Sony,611.89,390.6,16,2020,Active
+PRD-000793,Sony TP-Link Easy Smart,Networking,Switch,Sony,348.73,167.43,15,2024,Active
+PRD-000794,Cisco Samsung ViewFinity,Electronics,Monitor,Cisco,1016.59,482.89,22,2025,Active
+PRD-000795,Ubiquiti Photo Paper,Office Supplies,Paper,Ubiquiti,2081.29,1520.45,15,2023,Active
+PRD-000796,Cisco Netgear Insight AP,Networking,Access Point,Cisco,1908.26,1002.62,35,2024,Active
+PRD-000797,TP-Link ThinkPad X1 Carbon,Electronics,Laptop,TP-Link,255.97,154.59,16,2021,Discontinued
+PRD-000798,Cisco ASUS RT-AX,Networking,Router,Cisco,971.06,501.78,21,2024,Active
+PRD-000799,HP Brother HL-L3270,Electronics,Printer,HP,1192.86,746.87,36,2022,Active
+PRD-000800,Samsung HP Business Keyboard,Accessories,Keyboard,Samsung,1116.79,829.44,26,2022,Discontinued
+PRD-000801,Sony Logitech Zone,Accessories,Headset,Sony,1286.93,689.83,35,2024,Active
+PRD-000802,Epson Jabra Evolve2 65,Accessories,Headset,Epson,425.68,253.42,34,2021,Active
+PRD-000803,Bose Sony WH-1000XM5,Accessories,Headset,Bose,1849.78,931.64,36,2022,Active
+PRD-000804,Steelcase TP-Link Archer,Networking,Router,Steelcase,168.58,87.28,23,2025,Active
+PRD-000805,Logitech A4 Copy Paper,Office Supplies,Paper,Logitech,1063.83,691.03,14,2023,Active
+PRD-000806,Sony Acer Nitro XV,Electronics,Monitor,Sony,2242.04,1388.36,22,2024,Active
+PRD-000807,Canon Microsoft Designer Keyboard,Accessories,Keyboard,Canon,460.92,245.67,32,2022,Active
+PRD-000808,Steelcase D-Link Managed Switch,Networking,Switch,Steelcase,294.24,192.77,26,2021,Active
+PRD-000809,Sony HP EliteBook 840,Electronics,Laptop,Sony,402.91,220.27,21,2021,Active
+PRD-000810,Herman Miller Logitech Zone,Accessories,Headset,Herman Miller,1771.73,813.15,26,2025,Active
+PRD-000811,Epson Logitech Zone,Accessories,Headset,Epson,26.89,16.97,28,2023,Discontinued
+PRD-000812,Lenovo L-Shaped Workstation,Furniture,Desk,Lenovo,673.74,453.91,34,2022,Active
+PRD-000813,Steelcase Vertex Office Chair,Furniture,Chair,Steelcase,1876.62,1045.44,20,2022,Discontinued
+PRD-000814,TP-Link TP-Link Archer,Networking,Router,TP-Link,2040.09,1076.07,21,2022,Discontinued
+PRD-000815,Herman Miller TP-Link Omada,Networking,Access Point,Herman Miller,678.14,432.89,21,2025,Active
+PRD-000816,Herman Miller Mobile Pedestal,Furniture,Cabinet,Herman Miller,361.48,266.7,36,2023,Discontinued
+PRD-000817,LG TP-Link Archer,Networking,Router,LG,956.8,631.99,30,2025,Active
+PRD-000818,Steelcase Netgear Insight AP,Networking,Access Point,Steelcase,935.13,528.24,27,2020,Active
+PRD-000819,Sony Business Planner,Office Supplies,Notebook,Sony,1526.21,867.68,20,2023,Active
+PRD-000820,Netgear Premium Printer Paper,Office Supplies,Paper,Netgear,1479.78,740.18,34,2022,Active
+PRD-000821,ASUS Bose QC Ultra,Accessories,Headset,ASUS,281.31,154.94,32,2025,Active
+PRD-000822,Netgear HP LaserJet Pro,Electronics,Printer,Netgear,1689.66,965.37,34,2024,Active
+PRD-000823,LG Executive Desk,Furniture,Desk,LG,1531.36,749.94,34,2023,Active
+PRD-000824,Cisco Business Planner,Office Supplies,Notebook,Cisco,2101.08,1492.08,29,2025,Active
+PRD-000825,Vertex Executive Desk,Furniture,Desk,Vertex,108.91,57.25,26,2023,Active
+PRD-000826,Lenovo Photo Paper,Office Supplies,Paper,Lenovo,1327.15,710.85,25,2021,Active
+PRD-000827,Lenovo Epson EcoTank,Electronics,Printer,Lenovo,954.15,468.13,14,2025,Active
+PRD-000828,Steelcase Dell KB216,Accessories,Keyboard,Steelcase,1565.38,761.74,18,2024,Active
+PRD-000829,Steelcase Recycled Paper,Office Supplies,Paper,Steelcase,2492.36,1457.32,31,2020,Active
+PRD-000830,Epson L-Shaped Workstation,Furniture,Desk,Epson,1659.65,787.32,13,2020,Active
+PRD-000831,LG Brother HL-L3270,Electronics,Printer,LG,2086.35,1401.76,25,2021,Discontinued
+PRD-000832,TP-Link Premium Printer Paper,Office Supplies,Paper,TP-Link,1914.7,1426.57,28,2022,Active
+PRD-000833,Brother Jabra Evolve2 65,Accessories,Headset,Brother,1977.36,1030.63,27,2021,Active
+PRD-000834,Dell HP EliteBook 840,Electronics,Laptop,Dell,575.79,343.27,34,2020,Discontinued
+PRD-000835,Logitech Mobile Pedestal,Furniture,Cabinet,Logitech,1715.56,1241.32,28,2020,Active
+PRD-000836,Netgear Acer Nitro XV,Electronics,Monitor,Netgear,2266.81,1151.81,18,2022,Discontinued
+PRD-000837,Cisco Sony WH-1000XM5,Accessories,Headset,Cisco,1031.42,633.08,26,2021,Active
+PRD-000838,Samsung Spiral Notebook,Office Supplies,Notebook,Samsung,2319.51,1450.11,16,2020,Discontinued
+PRD-000839,ASUS Samsung ViewFinity,Electronics,Monitor,ASUS,1500.65,853.26,14,2025,Discontinued
+PRD-000840,Vertex L-Shaped Workstation,Furniture,Desk,Vertex,2457.04,1655.38,15,2020,Active
+PRD-000841,Microsoft Brother HL-L3270,Electronics,Printer,Microsoft,572.48,408.75,27,2020,Active
+PRD-000842,Epson HP EliteBook 840,Electronics,Laptop,Epson,460.66,216.33,12,2022,Active
+PRD-000843,Steelcase Sony WH-1000XM5,Accessories,Headset,Steelcase,25.93,16.86,30,2024,Active
+PRD-000844,Dell Poly Voyager,Accessories,Headset,Dell,1887.04,883.63,19,2023,Active
+PRD-000845,Steelcase Premium Printer Paper,Office Supplies,Paper,Steelcase,1143.16,537.38,25,2025,Active
+PRD-000846,Cisco Dell KB216,Accessories,Keyboard,Cisco,2225.34,1105.06,23,2021,Active
+PRD-000847,LG Pilot G2,Office Supplies,Pen,LG,1703.53,811.25,18,2025,Active
+PRD-000848,Steelcase Vertex Office Chair,Furniture,Chair,Steelcase,1680.56,855.33,18,2020,Discontinued
+PRD-000849,Dell Premium Printer Paper,Office Supplies,Paper,Dell,1487.84,773.78,20,2020,Active
+PRD-000850,Sony Herman Miller Aeron,Furniture,Chair,Sony,1500.55,920.13,28,2024,Active
+PRD-000851,Logitech Archive Cabinet,Furniture,Cabinet,Logitech,2260.57,1275.18,36,2021,Active
+PRD-000852,HP LG UltraFine 32,Electronics,Monitor,HP,1434.74,923.42,23,2025,Active
+PRD-000853,Epson Dell UltraSharp 27,Electronics,Monitor,Epson,2389.78,1385.03,16,2023,Active
+PRD-000854,Bose Adjustable Desk,Furniture,Desk,Bose,1927.2,1191.4,33,2020,Active
+PRD-000855,ASUS Photo Paper,Office Supplies,Paper,ASUS,2294.54,1364.05,32,2022,Active
+PRD-000856,ASUS Metal Storage Cabinet,Furniture,Cabinet,ASUS,1274.61,735.49,33,2022,Active
+PRD-000857,Herman Miller Metal Storage Cabinet,Furniture,Cabinet,Herman Miller,2480.97,1817.66,14,2025,Active
+PRD-000858,Netgear Aruba Instant On,Networking,Access Point,Netgear,789.34,367.94,12,2021,Active
+PRD-000859,HP Uni-ball Eye,Office Supplies,Pen,HP,1832.62,1261.0,13,2020,Discontinued
+PRD-000860,Sony Metal Storage Cabinet,Furniture,Cabinet,Sony,1079.0,534.33,19,2025,Active
+PRD-000861,Canon Cisco Catalyst,Networking,Switch,Canon,1125.01,825.18,26,2021,Active
+PRD-000862,LG Hardcover Journal,Office Supplies,Notebook,LG,363.26,194.85,36,2023,Active
+PRD-000863,Sony Cisco Catalyst,Networking,Switch,Sony,494.5,298.57,35,2024,Active
+PRD-000864,ASUS Uni-ball Eye,Office Supplies,Pen,ASUS,2417.66,1808.45,33,2021,Active
+PRD-000865,Dell Jabra Evolve2 65,Accessories,Headset,Dell,380.88,252.06,15,2023,Active
+PRD-000866,Dell Dell KB216,Accessories,Keyboard,Dell,2210.18,1209.16,18,2023,Active
+PRD-000867,LG Epson EcoTank,Electronics,Printer,LG,2049.68,1429.96,30,2023,Discontinued
+PRD-000868,Samsung Meeting Notebook,Office Supplies,Notebook,Samsung,814.03,576.93,15,2020,Active
+PRD-000869,Sony Dell Latitude 7440,Electronics,Laptop,Sony,1496.23,741.14,31,2025,Active
+PRD-000870,Microsoft Parker Jotter,Office Supplies,Pen,Microsoft,1643.72,1184.61,23,2025,Active
+PRD-000871,Herman Miller Razer Pro Click,Accessories,Mouse,Herman Miller,2495.44,1819.82,31,2022,Active
+PRD-000872,Logitech Dell Wireless Mouse,Accessories,Mouse,Logitech,314.35,203.79,19,2022,Active
+PRD-000873,Microsoft HP EliteBook 840,Electronics,Laptop,Microsoft,881.96,457.58,35,2023,Active
+PRD-000874,Sony Vertical File Cabinet,Furniture,Cabinet,Sony,1257.01,704.19,26,2023,Active
+PRD-000875,Canon Xerox VersaLink,Electronics,Printer,Canon,2123.22,1559.56,13,2020,Active
+PRD-000876,Bose Dell Latitude 7440,Electronics,Laptop,Bose,866.13,534.25,20,2022,Active
+PRD-000877,Netgear Bose QC Ultra,Accessories,Headset,Netgear,1793.59,1238.16,23,2020,Active
+PRD-000878,Herman Miller HP EliteBook 840,Electronics,Laptop,Herman Miller,1760.98,969.58,36,2024,Active
+PRD-000879,LG Metal Storage Cabinet,Furniture,Cabinet,LG,2097.79,1384.44,13,2024,Discontinued
+PRD-000880,Vertex Meeting Notebook,Office Supplies,Notebook,Vertex,1288.78,690.96,12,2024,Active
+PRD-000881,Epson Dell UltraSharp 27,Electronics,Monitor,Epson,477.57,234.93,31,2024,Discontinued
+PRD-000882,Bose Meeting Notebook,Office Supplies,Notebook,Bose,1674.83,1126.1,14,2025,Active
+PRD-000883,Vertex Microsoft Designer Keyboard,Accessories,Keyboard,Vertex,2277.12,1293.18,34,2025,Active
+PRD-000884,Canon Acer Nitro XV,Electronics,Monitor,Canon,2020.23,1249.29,32,2020,Active
+PRD-000885,Dell Samsung ViewFinity,Electronics,Monitor,Dell,1342.41,845.79,32,2021,Active
+PRD-000886,TP-Link Jabra Evolve2 65,Accessories,Headset,TP-Link,768.11,498.28,22,2024,Active
+PRD-000887,LG A4 Copy Paper,Office Supplies,Paper,LG,1798.82,864.45,12,2023,Active
+PRD-000888,Microsoft Steelcase Series 1,Furniture,Chair,Microsoft,770.05,355.77,17,2025,Active
+PRD-000889,Steelcase HP EliteBook 840,Electronics,Laptop,Steelcase,1427.72,743.73,21,2025,Active
+PRD-000890,Sony ASUS ExpertBook B5,Electronics,Laptop,Sony,170.32,107.45,33,2023,Active
+PRD-000891,Steelcase Standing Desk Pro,Furniture,Desk,Steelcase,346.71,258.95,21,2024,Active
+PRD-000892,LG Photo Paper,Office Supplies,Paper,LG,1876.95,1148.98,35,2020,Discontinued
+PRD-000893,Herman Miller Jabra Evolve2 65,Accessories,Headset,Herman Miller,733.69,546.81,14,2020,Active
+PRD-000894,HP HP Business Keyboard,Accessories,Keyboard,HP,34.02,17.64,35,2022,Active
+PRD-000895,Sony Ubiquiti UniFi,Networking,Access Point,Sony,896.72,652.92,22,2020,Active
+PRD-000896,HP Wooden File Cabinet,Furniture,Cabinet,HP,664.22,338.65,15,2025,Active
+PRD-000897,Bose A4 Copy Paper,Office Supplies,Paper,Bose,2233.5,1633.1,34,2025,Active
+PRD-000898,Ubiquiti Dell Wireless Mouse,Accessories,Mouse,Ubiquiti,593.82,277.61,33,2020,Active
+PRD-000899,LG TP-Link Archer,Networking,Router,LG,642.77,461.58,15,2021,Discontinued
+PRD-000900,Logitech Dell UltraSharp 27,Electronics,Monitor,Logitech,774.85,476.66,28,2023,Active
