@@ -1,6 +1,7 @@
 # Executive Business Performance Dashboard | Power BI
 
-<img width="880" height="498" alt="image" src="https://github.com/user-attachments/assets/6f965a7c-4e5d-45a9-89e0-87f7201c2e07" />
+<img width="877" height="491" alt="image" src="https://github.com/user-attachments/assets/0e6120f9-a0ba-4a95-a61d-357b9de55116" />
+
 
 
 ## 📌 Overview
@@ -76,7 +77,7 @@ Provides a high-level snapshot of overall business performance for executives.
 
 ### Screenshot
 
-<img width="880" height="498" alt="image" src="https://github.com/user-attachments/assets/6f965a7c-4e5d-45a9-89e0-87f7201c2e07" />
+<img width="877" height="491" alt="image" src="https://github.com/user-attachments/assets/0e6120f9-a0ba-4a95-a61d-357b9de55116" />
 
 ---
 
@@ -98,7 +99,8 @@ Analyses sales performance over time and across different locations and product 
 
 ### Screenshot
 
-<img width="889" height="500" alt="image" src="https://github.com/user-attachments/assets/c71f359d-f681-46b6-9f8a-e4b8fca63a96" />
+<img width="877" height="490" alt="image" src="https://github.com/user-attachments/assets/e0e6b26e-6514-4690-9844-d5a90e1848d5" />
+
 
 
 ---
@@ -121,7 +123,8 @@ Analyses customer segments, product performance, brand contribution, and purchas
 
 ### Screenshot
 
-<img width="884" height="497" alt="image" src="https://github.com/user-attachments/assets/3fca7e70-821c-435e-8fb9-e374b41a2895" />
+<img width="878" height="488" alt="image" src="https://github.com/user-attachments/assets/54ea83dc-289d-45b3-a96b-7e2856f98c68" />
+
 
 
 ---
@@ -143,7 +146,7 @@ Evaluates sales team performance, departmental profitability, and geographic emp
 
 ### Screenshot
 
-<img width="879" height="499" alt="image" src="https://github.com/user-attachments/assets/b8223c03-072c-47a7-a4af-23bc8bd47597" />
+<img width="873" height="495" alt="image" src="https://github.com/user-attachments/assets/3602531b-e83b-438c-8f1d-4306081610d9" />
 
 
 ---
@@ -163,7 +166,8 @@ Forecasts future business performance using Power BI's built-in forecasting capa
 
 ### Screenshot
 
-<img width="877" height="499" alt="image" src="https://github.com/user-attachments/assets/6c1f5df9-8bd9-4394-96ac-e12cac7c1f6d" />
+<img width="864" height="488" alt="image" src="https://github.com/user-attachments/assets/c0f0bf9b-066a-44a4-b736-ee3a8415505b" />
+
 
 
 ---
